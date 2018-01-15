@@ -3,7 +3,7 @@
 # Dreamvo
 Dreamvo est un projet de plateforme de vidéo décentralisée gratuite et open source. Le projet à pour but de créer une alternative à YouTube qui offrirait une autre vision du partage, du visionnage et de la gestion de son contenu audiovisuel sur le web. Il s'agit d'une plateforme destinée à un large public et pas seulement à un public francophone.
 
-## La décentralisation, le futur ?
+## La décentralisation, le futur du partage de vidéo ?
 Le principe de la décentralisation repose sur la possibilité de contribution des utilisateurs. Dans ce contexte précis, décentraliser les vidéos permet d'éviter de dépenser des énormes sommes dans des serveurs et de profiter de la puissance du réseau P2P.
 
 <a href="https://github.com/Chocobozzz/PeerTube">PeerTube</a> est une plateforme de vidéo décentralisée et sponsorisée par Framasoft, un organisme à but non lucratif qui promeut, diffuse et développe la culture libre en général ainsi que des logiciels libres. L'objectif du projet PeerTube est de proposer une alternative à YouTube en créant un réseau de plateformes décentralisées, libres et open source. C'est sur ce projet que nous voulons baser Dreamvo. Nous voulons faire partie des premières plateformes à démocratiser le partage de vidéo décentralisé.

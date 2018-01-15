@@ -8,16 +8,28 @@ Le principe de la décentralisation repose sur la possibilité de contribution d
 
 La problèmatique qu'a voulu soulever PeerTube c'est que nous ne pouvons pas créer d'alternatives de streaming vidéo <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">FOSS</a> à YouTube, Dailymotion, Vimeo ... avec un logiciel centralisé. Une organisation seule peut ne pas avoir assez d'argent pour payer la bande passante et le stockage vidéo nécessaires à un tel projet.
 
-Nous avons donc besoin d'un réseau de serveurs décentralisé qui <a href="http://www.commentcamarche.net/faq/19276-seeders-et-leechers">seedent</a> des vidéos (comme la Diaspora par exemple). Mais ce n'est pas suffisant car une vidéo pourrait devenir célèbre et surcharger le serveur. C'est la raison pour laquelle nous devons utiliser un protocole P2P pour limiter la charge du serveur. Grâce à WebTorrent, nous pouvons faire du P2P directement dans le navigateur web. Cela veut dire qu'un utilisateur peut seeder une vidéo simplement en la regardant depuis son navigateur, c'est comme si vous partagiez le flux vidéo que vous téléchargiez en regardant une vidéo sur YouTube à quelqu'un d'autre qui regarde la même vidéo en même temps.
+Nous avons donc besoin d'un réseau de serveurs décentralisé qui <a href="http://www.commentcamarche.net/faq/19276-seeders-et-leechers">seedent</a> des vidéos (comme Diaspora par exemple). Mais ce n'est pas suffisant car une vidéo pourrait devenir célèbre et surcharger le serveur. C'est la raison pour laquelle nous devons utiliser un protocole P2P pour limiter la charge du serveur. Grâce à WebTorrent, nous pouvons faire du P2P directement dans le navigateur web. Cela veut dire qu'un utilisateur peut seeder une vidéo simplement en la regardant depuis son navigateur, c'est comme si vous partagiez le flux vidéo que vous téléchargiez en regardant une vidéo sur YouTube à quelqu'un d'autre qui regarde la même vidéo en même temps.
 
 <p align="center"><img src="./screen2.png" alt="" /></p>
 
-Actuellement, PeerTube est encore en développement mais contient de nombreuses fonctionnalités que l'on retrouve habituellement comme des sous-titres, un algorithme de détection de nudité, la possibilité d'intégrer le player HTML5 ainsi que de nombreuses fonctionnalités de base. PeerTube n'est pas encore prêt à être déployé dans un environnement de production, mais il devrait pouvoir l'être dans les mois à venir.
+Actuellement, PeerTube est encore en développement mais contient de nombreuses fonctionnalités que l'on retrouve habituellement comme des sous-titres, un algorithme de détection de nudité, la possibilité d'intégrer le player HTML5 ainsi que de nombreuses fonctionnalités de base que l'on retrouve sur YouTube. PeerTube n'est pas encore prêt à être déployé dans un environnement de production, mais il devrait pouvoir l'être dans les mois à venir.
 
 <p align="center"><img src="./screen1.png" alt="" /></p>
 
 ## Un modèle économique adapté
-...
+Mettre en place un modèle économique solide est important. Il faut générer du profit mais aussi rémunérer les créateurs de contenu, en évitant le recourt à la publicité. Et si l'utilisateur contribuait également financièrement au développement de la plateforme ? Le <a href="https://medium.com/precoil/what-is-the-business-model-for-a-twitch-streamer-f3b9e5351666">modèle économique de Twitch</a> se base sur les abonnements de chaîne, les chaînes répondant à certains critères sont éligibles à un partenariat avec Twitch ce qui leur permet d'activer l'abonnement payant de 4,99€ par mois.
+
+Ce partenariat comprend les avantages suivant :
+* Obtient une part des revenus publicitaires générés par toutes les diffusions sur la chaîne.
+* Revenu d'abonnement mensuel des spectateurs abonnés.
+* Création d'un magasin pour la vente de vêtements personnalisés.
+* Système de donations des spectateurs via les bits.
+
+Twitch récupère un pourcentage des revenus générés par les abonnements, et les abonnés ont droit à certains avantages comme des émots personnalisées dans le chat, des badges, des accès privilégiés aux rediffusions ou à certains sites. Grâce à son traffic, aux publicités que les non abonnés regardent, aux abonnements Twitch Turbo ($8,99/mois) et aux taxes d'abonnements de chaînes, la société Twitch génère des centaines de millions de dollars chaque années. Les spectateurs soutiennent financièrement leurs créateurs favoris tout en soutenant la plateforme.
+
+Un autre exemple, <a href="https://www.feedough.com/reddit-make-money-reddit-business-model/">Reddit</a>. Reddit est un réseau social présenté sous forme de forum. Leur modèle économique se base sur la publicité (liens/posts sponsorisés par les utilisateurs ou par Google Adsense) mais également grâce à leur abonnement premium "Reddit Gold" ($3.99 ou $29.99/mois) qui donne certains avantages : désactiver les annonces (les utilisateurs peuvent désactiver les annonces quand ils le souhaitent), un quota de commentaires par page plus élevé, enregistrer et classer les commentaires où l'utilisateur peut enregistrer le commentaire qu'il / elle aime et peut les classer selon leurs besoins, accéder aux thèmes personnalisés fournis par Reddit. De plus, les membres Reddit Gold peuvent faire évoluer des membres standards en membre Gold en un clic avec une certaine limite.
+
+Ces modèles sont intéressants et adapté à un tel projet, mais il y a une problèmatique : Comment convraincre les spectateurs de migrer vers une nouvelle plateforme tout en sachant qu'ils vont devoir payer pour soutenir leur vidéastes favoris car la publicité, étant moins présente, rapportera moins d'argent.
 
 ## Pourquoi "Dreamvo" ?
 Chez les anglophones, "Dreamvo" désigne la possibilité d'enregistrer un rêve pour une vision future, quand un rêve est tellement agréable qu'on a envie de l'enregistrer et le revoir. C'est également un clin d'oeil subtil à <a href="https://github.com/dreamvids">DreamVids</a>, une startup française qui avait pour projet de concurrencer YouTube, et qui a réalisé l'exploit de prouver que c'est possible. La plateforme a fermé fin 2015 après un problème matériel de la part de leur hébergeur, ils avaient prévu de la relancer avec une version V3, elle n'a jamais vu le jour. Cette nouvelle plateforme, en plus d'être décentralisée et open source, apportera aux créateurs et aux spectateurs un outil qui correspond vraiment à leurs besoins.
@@ -41,6 +53,8 @@ Chez les anglophones, "Dreamvo" désigne la possibilité d'enregistrer un rêve 
 ...
 
 # Contribuer
-Vous êtes développeur, journaliste, programmeur, vidéaste ou simple spéctateur ? Vous avez tous le pouvoir de contribuer au développement de cette plateforme.
+Vous êtes développeur, journaliste, programmeur, vidéaste ou simple spéctateur ? Vous avez tous le pouvoir de contribuer au développement de cette plateforme, vous n'avez pas besoin de savoir coder pour contribuer ! <a href="https://github.com/Chocobozzz/PeerTube/blob/develop/.github/CONTRIBUTING.md">Plus d'infos</a>
 
-Envoyer une candidature de développeur : raphael@crvx.fr
+Mais avant tout, nous recherchons des développeurs pour composer une équipe. Nous recherchons un web designer, des développeurs front & back, ainsi qu'un sysadmin.
+
+Envoyer une candidature de développeur : *raphael@crvx.fr*

@@ -40,19 +40,19 @@ Chez les anglophones, "Dreamvo" désigne la possibilité d'enregistrer un rêve 
 
 * Révision totale du flux d’activité ainsi que du système de notation de vidéo
   
-  *Une page d’accueil entièrement personnalisable pour chaque utilisateur, on peut afficher les dernières vidéos d’une chaîne, ou d’une playlist, l’activité d’un user… Un vrai tableau de bord, se rapprochant légèrement d'un réseau social, sur lequel le vidéaste peut tout contrôler/voir mais également sur lequel le spectateur peut retrouver les dernières nouveautés, l’activité de ses vidéastes préférés etc.*
+  *Une page d’accueil entièrement personnalisable pour chaque utilisateur, on peut afficher les dernières vidéos d’une chaîne, ou d’une playlist, l’activité d’un utilisateur… Un vrai tableau de bord, se rapprochant légèrement d'un réseau social, sur lequel le vidéaste peut tout gérer mais également sur lequel le spectateur peut retrouver les dernières nouveautés, l’activité de ses vidéastes préférés et plus encore.*
 * Plusieurs utilisateurs peuvent gérer la même playlist, la même chaîne, ainsi les comptes utilisateurs sont strictement privés.
 * Une meilleure catégorisation des vidéos : ...
 * Un meilleur respect de la vie privée avec des comptes anonymes et un <a href="https://www.globalsign.fr/fr/centre-information-ssl/cryptographie-cle-publique/">chiffrement sécurisé à clé publique</a>
 * De la publicité moins intrusive, voire inexistante
 
   *Un modèle économique solide peut permettre la suppression totale de la publicité*
-
+  
 ## Un projet ambicieux mais réalisable
 ...
 
 ## La techno
-PeerTube est basé sur un framework NodeJS, une base de donnée PostgreSQL ainsi que le framework front Angular. Le back-end repose sur une API REST. 
+PeerTube est basé sur un framework NodeJS, une base de donnée PostgreSQL ainsi que le framework front Angular. Le back-end repose sur une API REST. Nous devons suivre ces standards pour pouvoir le réutiliser.
 
 # Contribuer
 Vous êtes développeur, journaliste, programmeur, vidéaste ou simple spéctateur ? Vous avez tous le pouvoir de contribuer au développement de cette plateforme, vous n'avez pas besoin de savoir coder pour contribuer ! <a href="https://github.com/Chocobozzz/PeerTube/blob/develop/.github/CONTRIBUTING.md">Plus d'infos</a>

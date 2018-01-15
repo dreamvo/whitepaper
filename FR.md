@@ -10,7 +10,11 @@ La problèmatique qu'a voulu soulever PeerTube c'est que nous ne pouvons pas cr�
 
 Nous avons donc besoin d'un réseau de serveurs décentralisé qui <a href="http://www.commentcamarche.net/faq/19276-seeders-et-leechers">seedent</a> des vidéos (comme la Diaspora par exemple). Mais ce n'est pas suffisant car une vidéo pourrait devenir célèbre et surcharger le serveur. C'est la raison pour laquelle nous devons utiliser un protocole P2P pour limiter la charge du serveur. Grâce à WebTorrent, nous pouvons faire du P2P directement dans le navigateur web. Cela veut dire qu'un utilisateur peut seeder une vidéo simplement en la regardant depuis son navigateur, c'est comme si vous partagiez le flux vidéo que vous téléchargiez en regardant une vidéo sur YouTube à quelqu'un d'autre qui regarde la même vidéo en même temps.
 
-Actuellement, PeerTube est encore en développement mais contient de nombreuses fonctionnalités que l'on retrouve habituellement comme des sous-titres, un algorithme de détection de nudité, la possibilité d'intégrer le player HTML5 etc. PeerTube n'est pas encore prêt à être déployé dans un environnement de production, mais il devrait pouvoir l'être dans les mois à venir.
+<p align="center"><img src="./screen2.png" alt="" /></p>
+
+Actuellement, PeerTube est encore en développement mais contient de nombreuses fonctionnalités que l'on retrouve habituellement comme des sous-titres, un algorithme de détection de nudité, la possibilité d'intégrer le player HTML5 ainsi que de nombreuses fonctionnalités de base. PeerTube n'est pas encore prêt à être déployé dans un environnement de production, mais il devrait pouvoir l'être dans les mois à venir.
+
+<p align="center"><img src="./screen1.png" alt="" /></p>
 
 ## Un modèle économique adapté
 ...

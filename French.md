@@ -1,4 +1,4 @@
-<p align="center"><img src="./images/tmp_logo.png" alt="" />Temporary logo</p>
+<p align="center"><img src="./images/tmp_logo.png" alt="" /><br>Temporary logo</p>
 
 # Dreamvo
 Dreamvo est un projet de plateforme de vidéo décentralisée gratuite et open source. Le projet à pour but de créer une alternative à YouTube qui offrirait une autre vision du partage, du visionnage et de la gestion de son contenu audiovisuel sur le web. Il s'agit d'une plateforme destinée à un large public et pas seulement à un public francophone.

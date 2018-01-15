@@ -1,4 +1,4 @@
-<p align="center"><img src="./tmp_logo.png" alt="" />Temporary logo</p>
+<p align="center"><img src="./images/tmp_logo.png" alt="" />Temporary logo</p>
 
 # Dreamvo
 Dreamvo est un projet de plateforme de vidéo décentralisée gratuite et open source. Le projet à pour but de créer une alternative à YouTube qui offrirait une autre vision du partage, du visionnage et de la gestion de son contenu audiovisuel sur le web. Il s'agit d'une plateforme destinée à un large public et pas seulement à un public francophone.
@@ -12,11 +12,11 @@ La problèmatique qu'a voulu soulever PeerTube c'est que nous ne pouvons pas cr�
 
 Nous avons donc besoin d'un réseau de serveurs décentralisé qui <a href="http://www.commentcamarche.net/faq/19276-seeders-et-leechers">seedent</a> des vidéos (comme Diaspora par exemple). Mais ce n'est pas suffisant car une vidéo pourrait devenir célèbre et surcharger le serveur. C'est la raison pour laquelle nous devons utiliser un protocole P2P pour limiter la charge du serveur. Grâce à WebTorrent, nous pouvons faire du P2P directement dans le navigateur web. Cela veut dire qu'un utilisateur peut seeder une vidéo simplement en la regardant depuis son navigateur, c'est comme si vous partagiez le flux vidéo que vous téléchargiez en regardant une vidéo sur YouTube à quelqu'un d'autre qui regarde la même vidéo en même temps. Même si personne ne regarde une vidéo, elle reste accessible via le serveur principal via le <a href="http://getright.com/seedtorrent.html">protocole WebSeed</a>.
 
-<p align="center"><img src="./screen2.png" alt="" /></p>
+<p align="center"><img src="./images/screen2.png" alt="" /></p>
 
 Actuellement, PeerTube est encore en développement mais contient de nombreuses fonctionnalités que l'on retrouve habituellement comme des sous-titres, un algorithme de détection de nudité, la possibilité d'intégrer le player HTML5 ainsi que de nombreuses fonctionnalités de base que l'on retrouve sur YouTube. PeerTube n'est pas encore prêt à être déployé dans un environnement de production, mais il devrait pouvoir l'être dans les mois à venir.
 
-<p align="center"><img src="./screen1.png" alt="" /></p>
+<p align="center"><img src="./images/screen1.png" alt="" /></p>
 
 ## Un modèle économique adapté
 Mettre en place un modèle économique solide est important. Il faut générer du profit mais aussi rémunérer les créateurs de contenu, en évitant le recourt à la publicité. Et si l'utilisateur contribuait également financièrement au développement de la plateforme ? Le <a href="https://medium.com/precoil/what-is-the-business-model-for-a-twitch-streamer-f3b9e5351666">modèle économique de Twitch</a> se base sur les abonnements de chaîne, les chaînes répondant à certains critères sont éligibles à un partenariat avec Twitch ce qui leur permet d'activer l'abonnement payant de 4,99€ par mois.

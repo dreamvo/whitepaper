@@ -42,14 +42,13 @@ Chez les anglophones, "Dreamvo" désigne la possibilité d'enregistrer un rêve 
   
   *Une page d’accueil entièrement personnalisable pour chaque utilisateur, on peut afficher les dernières vidéos d’une chaîne, ou d’une playlist, l’activité d’un utilisateur… Un vrai tableau de bord, se rapprochant légèrement d'un réseau social, sur lequel le vidéaste peut tout gérer mais également sur lequel le spectateur peut retrouver les dernières nouveautés, l’activité de ses vidéastes préférés et plus encore.*
 * Plusieurs utilisateurs peuvent gérer la même playlist, la même chaîne, ainsi les comptes utilisateurs sont strictement privés.
-* Une meilleure catégorisation des vidéos : ...
 * Un meilleur respect de la vie privée avec des comptes anonymes et un <a href="https://www.globalsign.fr/fr/centre-information-ssl/cryptographie-cle-publique/">chiffrement sécurisé à clé publique</a>
 * De la publicité moins intrusive, voire inexistante
 
   *Un modèle économique solide peut permettre la suppression totale de la publicité*
   
 ## Un projet ambicieux mais réalisable
-...
+Bien que le projet peut sembler irréalisable ou trop ambicieux, je pense qu'il faut simplement ne pas brûler d'étapes. Le grand public n'est peut être pas prêt à se débarrasser de YouTube, mais ça viendra tôt ou tard, qu'on le veuille ou non, et rien ne nous empêche de créer une alternative à ce dernier et de développer un YouTube meilleur petit à petit, sans dépenser des grosses sommes en serveurs ou en marketing. Le premier objectif est de lancer une solution pour tous ceux qui sont directement impactés par la politique actuelle de YouTube à savoir les droits d'auteur et la censure.
 
 ## La techno
 PeerTube est basé sur un framework NodeJS, une base de donnée PostgreSQL ainsi que le framework front Angular. Le back-end repose sur une API REST. Nous devons suivre ces standards pour pouvoir le réutiliser.

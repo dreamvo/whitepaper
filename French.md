@@ -48,7 +48,7 @@ Chez les anglophones, "Dreamvo" désigne la possibilité d'enregistrer un rêve 
   *Un modèle économique solide peut permettre la suppression totale de la publicité*
   
 ## Un projet ambicieux mais réalisable
-Bien que le projet peut sembler irréalisable ou trop ambicieux, je pense qu'il faut simplement ne pas brûler d'étapes. Le grand public n'est peut être pas prêt à se débarrasser de YouTube, mais ça viendra tôt ou tard, qu'on le veuille ou non, et rien ne nous empêche de créer une alternative à ce dernier et de développer un YouTube meilleur petit à petit, sans dépenser des grosses sommes en serveurs ou en marketing. Le premier objectif est de lancer une solution pour tous ceux qui sont directement impactés par la politique actuelle de YouTube à savoir les droits d'auteur et la censure.
+Bien que le projet peut sembler irréalisable ou trop ambicieux, je pense qu'il faut simplement ne pas brûler d'étapes. Le grand public n'est peut être pas prêt à se débarrasser de YouTube, mais ça viendra tôt ou tard, qu'on le veuille ou non, et rien ne nous empêche de créer une alternative à ce dernier et de développer un YouTube meilleur petit à petit, sans dépenser des grosses sommes en serveurs ou en marketing. Le premier objectif est de lancer une solution pour tous ceux qui sont directement impactés par la politique actuelle de YouTube, ses principaux défauts, à savoir les droits d'auteur et la censure.
 
 ## La techno
 PeerTube est basé sur un framework NodeJS, une base de donnée PostgreSQL ainsi que le framework front Angular. Le back-end repose sur une API REST. Nous devons suivre ces standards pour pouvoir le réutiliser.
@@ -56,6 +56,6 @@ PeerTube est basé sur un framework NodeJS, une base de donnée PostgreSQL ainsi
 # Contribuer
 Vous êtes développeur, journaliste, programmeur, vidéaste ou simple spéctateur ? Vous avez tous le pouvoir de contribuer au développement de cette plateforme, vous n'avez pas besoin de savoir coder pour contribuer ! <a href="https://github.com/Chocobozzz/PeerTube/blob/develop/.github/CONTRIBUTING.md">Plus d'infos</a>
 
-Mais avant tout, nous recherchons des développeurs pour composer une équipe. Nous recherchons un web designer, des développeurs front & back, ainsi qu'un sysadmin.
+Mais avant tout, nous recherchons des développeurs pour composer une équipe. Nous recherchons un web designer UX/UI, des développeurs front et back, ainsi qu'un ou plusieurs sysadmins.
 
 Envoyer une candidature de développeur : *raphael@crvx.fr*

@@ -48,7 +48,7 @@ Chez les anglophones, "Dreamvo" désigne la possibilité d'enregistrer un rêve 
   *Un modèle économique solide peut permettre la suppression totale de la publicité*
   
 ## Un projet ambicieux mais réalisable
-Bien que le projet peut sembler irréalisable ou trop ambicieux, je pense qu'il faut simplement ne pas brûler d'étapes. Le grand public n'est peut être pas prêt à se débarrasser de YouTube, mais ça viendra tôt ou tard, qu'on le veuille ou non, et rien ne nous empêche de créer une alternative à ce dernier et de développer un YouTube meilleur petit à petit, sans dépenser des grosses sommes en serveurs ou en marketing. Le premier objectif est de lancer une solution pour tous ceux qui sont directement impactés par la politique actuelle de YouTube, ses principaux défauts, à savoir les droits d'auteur et la censure.
+Bien que le projet peut sembler irréalisable ou trop ambicieux, nous pensons qu'il ne faut simplement pas brûler d'étape. Le grand public n'est peut être pas prêt à se débarrasser de YouTube, mais ça viendra tôt ou tard, qu'on le veuille ou non, et rien ne nous empêche de créer une alternative à ce dernier et de développer un YouTube meilleur petit à petit, sans dépenser des grosses sommes en serveurs ou en marketing. Le premier objectif est de lancer une solution pour tous ceux qui sont directement impactés par la politique actuelle de YouTube, ses principaux défauts, à savoir les droits d'auteur et la censure.
 
 ## La techno
 PeerTube est basé sur un framework NodeJS, une base de donnée PostgreSQL ainsi que le framework front Angular. Le back-end repose sur une API REST. Nous devons suivre ces standards pour pouvoir le réutiliser.

@@ -35,6 +35,10 @@ Ces modèles sont intéressants et adapté à un tel projet, mais il y a une pro
 
 <p align="center"><img src="./images/tweet1.png" alt="" /><br><a href="https://twitter.com/_Amixem/status/953612321707917312">Tweet original</a></p>
 
+### Reprenons le pouvoir avec un modèle économique sain
+
+Avec le modèle économique actuel de YouTube, ce sont les annonceurs qui ont le pouvoir sur la rémunération des créateurs de contenu. C'est très mauvais car à cause de polémiques comme celle autour du YouTuber Logan Paul par exemple, les annonceurs ce sont montrés plus réticents envers YouTube, car ils ne veulent pas que leur image de marque soit assimilée comme étant en accord avec ce type de contenu. YouTube ce voit donc dans l'obligation de diminuer les seuils de monétisations et de réstreindre l'accès à la monétisation avec des critères plus précis. C'est l'une des principales raisons pour lesquelles YouTube est en train de devenir obsolète. La communauté doit reprendre le pouvoir au détriment des annonceurs.
+
 ## Pourquoi "Dreamvo" ?
 Chez les anglophones, "Dreamvo" désigne la possibilité d'enregistrer un rêve pour une vision future, quand un rêve est tellement agréable qu'on a envie de l'enregistrer et le revoir. C'est également un clin d'oeil subtil à <a href="https://github.com/dreamvids">DreamVids</a>, une startup française qui avait pour projet de concurrencer YouTube, et qui a réalisé l'exploit de prouver que c'est possible. La plateforme a fermé fin 2015 après un problème matériel de la part de leur hébergeur, ils avaient prévu de la relancer avec une version V3, elle n'a jamais vu le jour. Cette nouvelle plateforme, en plus d'être décentralisée et open source, apportera aux créateurs et aux spectateurs un outil qui correspond vraiment à leurs besoins.
 

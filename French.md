@@ -14,7 +14,7 @@ Nous avons donc besoin d'un réseau de serveurs décentralisé qui <a href="http
 
 <p align="center"><img src="./images/screen2.png" alt="" /></p>
 
-Actuellement, PeerTube est encore en développement mais contient de nombreuses fonctionnalités que l'on retrouve habituellement comme des sous-titres, un algorithme de détection de nudité, la possibilité d'intégrer le player HTML5 ainsi que de nombreuses fonctionnalités de base que l'on retrouve sur YouTube. PeerTube n'est pas encore prêt à être déployé dans un environnement de production, mais il devrait pouvoir l'être dans les mois à venir.
+Actuellement, PeerTube est encore en développement mais contient de nombreuses fonctionnalités que l'on retrouve habituellement comme des sous-titres, un algorithme de détection de contenu NSFW, la possibilité d'intégrer le player HTML5 ainsi que de nombreuses fonctionnalités de base que l'on retrouve sur YouTube. PeerTube n'est pas encore prêt à être déployé dans un environnement de production, mais il devrait pouvoir l'être dans les mois à venir.
 
 <p align="center"><img src="./images/screen1.png" alt="" /></p>
 

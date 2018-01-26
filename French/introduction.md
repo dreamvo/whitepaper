@@ -60,7 +60,7 @@ Bien que le projet peut sembler irréalisable ou trop ambicieux, nous pensons qu
 PeerTube est basé sur un framework NodeJS, une base de donnée PostgreSQL ainsi que le framework front Angular. Le back-end repose sur une API REST. Nous devons suivre ces standards pour pouvoir le réutiliser.
 
 # Contribuer
-Vous êtes développeur, journaliste, programmeur, vidéaste ou simple spéctateur ? Vous avez tous le pouvoir de contribuer au développement de cette plateforme, vous n'avez pas besoin de savoir coder pour contribuer ! <a href="https://github.com/Chocobozzz/PeerTube/blob/develop/.github/CONTRIBUTING.md">Plus d'infos</a>
+Vous êtes développeur, journaliste, programmeur, vidéaste ou simple spectateur ? Vous avez tous le pouvoir de contribuer au développement de cette plateforme, vous n'avez pas besoin de savoir coder pour contribuer ! <a href="https://github.com/Chocobozzz/PeerTube/blob/develop/.github/CONTRIBUTING.md">Plus d'infos</a>
 
 Mais avant tout, nous recherchons des développeurs pour composer une équipe. Nous recherchons un web designer UX/UI, des développeurs front et back, ainsi qu'un ou plusieurs sysadmins.
 

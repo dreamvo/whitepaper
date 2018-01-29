@@ -1,4 +1,4 @@
 # Dreamvo
 The main documentation about the project
 
-<a href="French/introduction.md">French documentation</a>
+<a href="FR/intro.md">French documentation</a>

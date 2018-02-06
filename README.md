@@ -13,3 +13,4 @@ Dreamvo project documentation
 * Utilisation du réseau pair à pair avec WebTorrent
 * Développement
 * Ressources techniques
+* La license

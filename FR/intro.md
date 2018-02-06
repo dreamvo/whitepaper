@@ -52,12 +52,20 @@ Chez les anglophones, "Dreamvo" désigne la possibilité d'enregistrer un rêve 
 * De la publicité moins intrusive, voire inexistante
 
   *Un modèle économique solide peut permettre la suppression totale de la publicité*
+* Des outils facilitant la mise en place de projets audiovisuels et la collaboration des utilisateurs.
   
 ## Un projet ambicieux mais réalisable
 Bien que le projet peut sembler irréalisable ou trop ambicieux, nous pensons qu'il ne faut simplement pas brûler d'étape. Le grand public n'est peut être pas prêt à se débarrasser de YouTube, mais ça viendra tôt ou tard, qu'on le veuille ou non, et rien ne nous empêche de créer une alternative à ce dernier et de développer un YouTube meilleur petit à petit, sans dépenser des grosses sommes en serveurs ou en marketing. Le premier objectif est de lancer une solution pour tous ceux qui sont directement impactés par la politique actuelle de YouTube, ses principaux défauts, à savoir les droits d'auteur, la censure et la monétisation.
 
 ## La techno
-PeerTube est basé sur un framework NodeJS, une base de donnée PostgreSQL ainsi que le framework front Angular. Le back-end repose sur une API REST. Nous devons suivre ces standards pour pouvoir le réutiliser.
+PeerTube est basé sur un framework NodeJS, une base de donnée PostgreSQL ainsi que le framework front Angular. Le back-end repose sur une API REST.
+
+Dreamvo ne se basera finalement pas sur PeerTube car la techno ne nous convient pas. Dreamvo sera donc composé de l'architecture suivante :
+
+* Une app web front basée sur le framework node AdonisJS et ReactJS
+* Une API REST back end basée sur AdonisJS utilisant une base de donnée PostgreSQL
+* Du partage de vidéo décentralisé avec WebTorrent et WebSeed
+* De la conversion vidéo avec FFmpeg
 
 # Contribuer
 Vous êtes développeur, journaliste, programmeur, vidéaste ou simple spectateur ? Vous avez tous le pouvoir de contribuer au développement de cette plateforme, vous n'avez pas besoin de savoir coder pour contribuer ! <a href="https://github.com/Chocobozzz/PeerTube/blob/develop/.github/CONTRIBUTING.md">Plus d'infos</a>

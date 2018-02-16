@@ -19,8 +19,9 @@ Dreamvo project documentation
 ### Développement
 * La conversion vidéo avec FFmpeg
 * Du partage de vidéos décentralisé avec WebTorrent
-* Développement web
-* Ressources techniques
+* L'application web
+* L'application mobile
+* Architecture technique
 
 ### Lancement
 * Une version alpha

@@ -8,7 +8,7 @@ Dreamvo project documentation
 
 ### Le projet
 * <a href="FR/intro.md">Introduction</a>
-* Un nouvel outil pour les vidéastes
+* Expérience utilisateur : un nouvel outil pour les vidéastes
 * La license
 
 ### Problèmatiques et solutions

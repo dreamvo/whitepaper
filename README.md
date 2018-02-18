@@ -12,8 +12,8 @@ Dreamvo project documentation
 * La license
 
 ### Problèmatiques et solutions
-* Comment gérer la modération constante de l'upload de vidéos ?
-* Quel plan de secours en cas d'échec du modèle économique ?
+* Comment gérer la modération constante des vidéos ?
+* Le modèle économique
 * Étude de marché
 
 ### Développement

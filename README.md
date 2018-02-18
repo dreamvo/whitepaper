@@ -2,12 +2,12 @@
 Dreamvo project documentation
 
 ## English (soon)
-* <a href="EN/intro.md">Introduction</a>
+* <a href="en/intro.md">Introduction</a>
 
 ## French
 
 ### Le projet
-* <a href="FR/intro.md">Introduction</a>
+* <a href="fr/intro.md">Introduction</a>
 * Expérience utilisateur : un nouvel outil pour les vidéastes
 * La license
 

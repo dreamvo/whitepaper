@@ -6,7 +6,7 @@ La principale caractéristique d'une plateforme vidéo pour un spectateur ou un 
 
 ### Un nouvel outil pour les vidéastes ?
 
-L'objectif principal de Dreamvo est de créer une plateforme qui change complétement la façon de partager, de créer et de regarder du contenu audiovisuel à travers un réseau libre et décentralisé. Nous voulons pouvoir permettre aux créateurs de valoriser au maximum la qualité de leur contenu. Le modèle économique aidant, nous nous dirigeront donc vers une plateforme où le travail de qualité est majoritairement récompensé par les spectateurs eux même.
+L'objectif principal de Dreamvo est de créer une plateforme qui change drastiquement la façon de partager, de diffuser et de regarder du contenu audiovisuel à travers un réseau libre et décentralisé. Nous voulons permettre aux créateurs de valoriser au maximum la qualité de leur contenu. Le modèle économique aidant, nous nous dirigeront donc vers une plateforme où le travail de qualité est majoritairement récompensé par les spectateurs eux même.
 
 ### Favoriser l'entre-aide et le partage
 

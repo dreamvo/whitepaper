@@ -14,4 +14,4 @@ Sur YouTube il existe déjà des fonctionnalités permettant aux spectateurs de 
 
 ### Une navigation efficace
 
-...
+Nous voulons améliorer la façon de naviguer à travers le contenu. Le spectateur doit pouvoir choisir ce qu'il veut regarder, et même ce qu'il veut retrouver sur la plateforme lorsqu'il se connecte.

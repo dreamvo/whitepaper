@@ -9,7 +9,7 @@ Dreamvo project documentation
 ### Le projet
 * <a href="fr/intro.md">Introduction</a>
 * Expérience utilisateur : un nouvel outil pour les vidéastes
-* La license
+* <a href="fr/license.md">La license</a>
 
 ### Problèmatiques et solutions
 * Comment gérer la modération constante des vidéos ?

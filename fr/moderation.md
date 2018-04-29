@@ -1,4 +1,4 @@
-# Comment gérer la modération constante des vidéos ?
+# Modération des vidéos
 
 Pour garantir une bonne expérience sur notre plateforme nous devons modérer le contenu qui y est publié. Nous devons être capable de détecter tout contenu offensant ou innaproprié le plus rapidement possible. Notre réglement de la communauté interdira certains types de contenu et nous ne pourrons pas vérifier manuellement si elles sont respectées.
 

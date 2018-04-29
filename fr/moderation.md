@@ -6,4 +6,4 @@ Pour cela, nous développerons des algorithmes d'intélligences artificielles ca
 
 Les principaux types de contenu à détecter et sanctionner sont la nudité et les contenus offensants, violents ou contenants des propos innapropriés (racisme, harcèlement, ...).
 
-Nous ne devons cependant pas remplacer la modération humaine qui sera toujours plus efficace qu'une analyse automatique par un robot et tomber dans la censure.
+Nous ne devons cependant pas remplacer la modération humaine qui sera toujours plus efficace qu'une analyse automatique par un robot qui peut nous faire tomber dans la censure.

@@ -15,6 +15,7 @@ Dreamvo project documentation
 * <a href="fr/moderation.md">Comment gérer la modération constante des vidéos ?</a>
 * Le modèle économique
 * Étude de marché
+* La cryptomonnaie dans le partage de vidéo
 
 ### Développement
 * La conversion vidéo avec FFmpeg

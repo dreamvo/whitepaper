@@ -12,7 +12,7 @@ Dreamvo project documentation
 * <a href="fr/license.md">La license</a>
 
 ### Problèmatiques et solutions
-* Comment gérer la modération constante des vidéos ?
+* <a href="fr/moderation.md">Comment gérer la modération constante des vidéos ?</a>
 * Le modèle économique
 * Étude de marché
 

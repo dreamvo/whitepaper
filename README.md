@@ -1,8 +1,23 @@
 # Dreamvo
 Dreamvo project documentation
 
-## English (soon)
+## English
 * <a href="en/intro.md">Introduction</a>
+* User experience
+* License
+
+### Problems and solutions
+* How to manage the videos moderation constantly
+* Market study
+* Economic model
+* The role of cryptocurrency in video sharing
+
+### Development
+* Video conversion using FFmpeg
+* Decentralized video sharing with WebTorrent and WebSeed
+* Web application
+* Mobile application
+* Technical architecture
 
 ## French
 
@@ -13,13 +28,13 @@ Dreamvo project documentation
 
 ### Problèmatiques et solutions
 * <a href="fr/moderation.md">Comment gérer la modération constante des vidéos ?</a>
-* Le modèle économique
 * Étude de marché
+* Le modèle économique
 * La cryptomonnaie dans le partage de vidéo
 
 ### Développement
 * La conversion vidéo avec FFmpeg
-* Du partage de vidéos décentralisé avec WebTorrent
+* Du partage de vidéos décentralisé avec WebTorrent et WebSeed
 * L'application web
 * L'application mobile
 * Architecture technique

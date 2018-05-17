@@ -60,12 +60,7 @@ Bien que le projet peut sembler irréalisable ou trop ambicieux, nous pensons qu
 ## La techno
 PeerTube est basé sur un framework NodeJS, une base de donnée PostgreSQL ainsi que le framework front Angular. Le back-end repose sur une API REST.
 
-Dreamvo ne se basera finalement pas sur PeerTube car la techno ne nous convient pas. Dreamvo sera donc composé de l'architecture suivante :
-
-* Une app web front basée sur le framework node AdonisJS et ReactJS
-* Une API REST back end basée sur AdonisJS utilisant une base de donnée PostgreSQL
-* Du partage de vidéo décentralisé avec WebTorrent et WebSeed
-* De la conversion vidéo avec FFmpeg
+Dreamvo ne se basera finalement pas sur PeerTube car la techno ne nous convient pas. L'architecture technique de Dreamvo sera détaillée dans la documentation appropriée.
 
 # Contribuer
 Vous êtes développeur, journaliste, programmeur, vidéaste ou simple spectateur ? Vous avez tous le pouvoir de contribuer au développement de cette plateforme, vous n'avez pas besoin de savoir coder pour contribuer ! <a href="https://github.com/Chocobozzz/PeerTube/blob/develop/.github/CONTRIBUTING.md">Plus d'infos</a>

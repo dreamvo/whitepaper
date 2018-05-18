@@ -35,24 +35,20 @@ Ces modèles sont intéressants et adapté à un tel projet, mais il y a une pro
 
 <p align="center"><img src="../images/tweet1.png" alt="" /><br><a href="https://twitter.com/_Amixem/status/953612321707917312">Tweet original</a></p>
 
-### Reprenons le pouvoir avec un modèle économique sain
+## Reprenons le pouvoir avec un modèle économique sain
 
 Avec le modèle économique actuel de YouTube, ce sont les annonceurs qui ont le pouvoir sur la rémunération des créateurs de contenu. C'est très mauvais car à cause de polémiques comme celle autour du YouTuber Logan Paul par exemple, les annonceurs ce sont montrés plus réticents envers YouTube, car ils ne veulent pas que leur image de marque soit assimilée comme étant en accord avec ce type de contenu. YouTube se voit donc dans l'obligation de diminuer les seuils de monétisations et de réstreindre l'accès à celle-ci avec des critères plus précis. C'est l'une des principales raisons pour lesquelles YouTube est en train de devenir obsolète. La communauté doit reprendre le pouvoir au détriment des annonceurs.
 
 ## Pourquoi "Dreamvo" ?
 Chez les anglophones, "Dreamvo" désigne la possibilité d'enregistrer un rêve pour une vision future, quand un rêve est tellement agréable qu'on a envie de l'enregistrer et le revoir. C'est également un clin d'oeil subtil à <a href="https://github.com/dreamvids">DreamVids</a>, une startup française qui avait pour projet de concurrencer YouTube, et qui a réalisé l'exploit de prouver que c'est possible. La plateforme a fermé fin 2015 après un problème matériel de la part de leur hébergeur, ils avaient prévu de la relancer avec une version V3, elle n'a jamais vu le jour. Cette nouvelle plateforme, en plus d'être décentralisée et open source, apportera aux créateurs et aux spectateurs un outil qui correspond vraiment à leurs besoins.
 
-### Quelques idées
+Les principaux objectifs de Dreamvo sont donc :
 
-* Révision totale du flux d’activité ainsi que du système de notation de vidéo
-  
-  *Une page d’accueil entièrement personnalisable pour chaque utilisateur, on peut afficher les dernières vidéos d’une chaîne, ou d’une playlist, l’activité d’un utilisateur… Un vrai tableau de bord, se rapprochant légèrement d'un réseau social, sur lequel le vidéaste peut tout gérer mais également sur lequel le spectateur peut retrouver les dernières nouveautés, l’activité de ses vidéastes préférés et plus encore.*
-* Plusieurs utilisateurs peuvent gérer la même playlist, la même chaîne, ainsi les comptes utilisateurs sont strictement privés.
-* Un meilleur respect de la vie privée avec des comptes anonymes et un <a href="https://www.globalsign.fr/fr/centre-information-ssl/cryptographie-cle-publique/">chiffrement sécurisé à clé publique</a>
-* De la publicité moins intrusive, voire inexistante
-
-  *Un modèle économique solide peut permettre la suppression totale de la publicité*
-* Des outils facilitant la mise en place de projets audiovisuels et la collaboration des utilisateurs.
+- Un meilleur respect de la vie privée avec des comptes anonymes et du chiffrement à [clé publique](https://www.globalsign.fr/fr/centre-information-ssl/cryptographie-cle-publique/)
+- Une plateforme pensée [secure by default](https://en.wikipedia.org/wiki/Secure_by_default)
+- Des fonctionnalités innovantes permettant de meilleures intéractions avec la communauté
+- Un modèle économique en grande partie basé sur les dons et les abonnements
+- Mettre davantage en avant le contenu de qualité et la nouveauté
   
 ## Un projet ambicieux mais réalisable
 Bien que le projet peut sembler irréalisable ou trop ambicieux, nous pensons qu'il ne faut simplement pas brûler d'étape. Le grand public n'est peut être pas prêt à se débarrasser de YouTube, mais ça viendra tôt ou tard, qu'on le veuille ou non, et rien ne nous empêche de créer une alternative à ce dernier et de développer un YouTube meilleur petit à petit, sans dépenser des grosses sommes en serveurs ou en marketing. Le premier objectif est de lancer une solution pour tous ceux qui sont directement impactés par la politique actuelle de YouTube, ses principaux défauts, à savoir les droits d'auteur, la censure et la monétisation.

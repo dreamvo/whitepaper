@@ -1,4 +1,4 @@
-# La license
+# La licence
 
 Dreamvo est un projet libre et open source. Nous avons choisi d'utiliser la license **GNU Affero General Public License** (AGPL). La licence publique générale GNU Affero (GNU AGPL) est une licence de logiciel libre possédant un copyleft. Ses termes sont en fait ceux de la GPLv3, avec l’obligation de mise à disposition du code source du logiciel modifié par le seul biais d’un accès distant. Il est recommandé aux développeurs d’envisager l’utilisation de la GNU AGPL pour tout logiciel exécuté sur un réseau. [Source](https://www.diatem.net/les-licences-open-source/)
 

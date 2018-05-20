@@ -24,7 +24,7 @@ Dreamvo project documentation
 ### Le projet
 * <a href="fr/intro.md">Introduction</a>
 * <a href="fr/ux.md">Expérience utilisateur</a>
-* <a href="fr/license.md">La license</a>
+* <a href="fr/license.md">La licence</a>
 
 ### Problèmatiques et solutions
 * <a href="fr/moderation.md">Comment gérer la modération constante des vidéos ?</a>

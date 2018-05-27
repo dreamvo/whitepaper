@@ -28,7 +28,7 @@ Dreamvo project documentation
 
 ### Problèmatiques et solutions
 * <a href="fr/moderation.md">Comment gérer la modération constante des vidéos ?</a>
-* Étude de marché
+* <a href="fr/market.md">Étude de marché</a>
 * Le modèle économique
 * La cryptomonnaie dans le partage de vidéo
 

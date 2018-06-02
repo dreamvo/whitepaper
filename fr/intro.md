@@ -53,11 +53,6 @@ Les principaux objectifs de Dreamvo sont donc :
 ## Un projet ambicieux mais réalisable
 Bien que le projet peut sembler irréalisable ou trop ambicieux, nous pensons qu'il ne faut simplement pas brûler d'étape. Le grand public n'est peut être pas prêt à se débarrasser de YouTube, mais ça viendra tôt ou tard, qu'on le veuille ou non, et rien ne nous empêche de créer une alternative à ce dernier et de développer un YouTube meilleur petit à petit, sans dépenser des grosses sommes en serveurs ou en marketing. Le premier objectif est de lancer une solution pour tous ceux qui sont directement impactés par la politique actuelle de YouTube, ses principaux défauts, à savoir les droits d'auteur, la censure et la monétisation.
 
-## La techno
-PeerTube est basé sur un framework NodeJS, une base de donnée PostgreSQL ainsi que le framework front Angular. Le back-end repose sur une API REST.
-
-Dreamvo ne se basera finalement pas sur PeerTube car la techno ne nous convient pas. L'architecture technique de Dreamvo sera détaillée dans la documentation appropriée.
-
 # Contribuer
 Vous êtes développeur, journaliste, programmeur, vidéaste ou simple spectateur ? Vous avez tous le pouvoir de contribuer au développement de cette plateforme, vous n'avez pas besoin de savoir coder pour contribuer ! <a href="https://github.com/Chocobozzz/PeerTube/blob/develop/.github/CONTRIBUTING.md">Plus d'infos</a>
 

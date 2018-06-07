@@ -27,10 +27,12 @@ Les plateforme décentralisée existantes répondent à la plupart de ces probl�
 
 ### Le Pourquoi
 
-...
+Si YouTube fait face à ses problèmes, c'est parce que le public est de plus en plus réticent à l'idée de se faire manipuler par les algorithmes et les IA pour que Google en faire profiter toujours plus d'annonceurs.
+
+Les alternatives décentralisée actuelles fonctionnent pour la plupart que sur des systèmes encore expérimentaux. Il y a très peu d'alternative qui prétend avoir réellement fait de la recherche concernant l'expérience utilisateur. Hors c'est la principale raison qui profitera à la migration du grand public vers une nouvelle plateforme.
+
+Les solutions apportées à ces problèmatiques n'ont qu'un seul but : redonner le contrôle aux utilisateurs, aux vidéastes et à leur communauté. Ainsi nous pourrons éliminer la censure, créer une plateforme libre, open source et indépendante.
 
 ### Le Comment
 
 ...
-
-![Viewly economic model](/images/market_viewly.png "Viewly economic model")

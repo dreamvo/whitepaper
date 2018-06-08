@@ -50,8 +50,8 @@ Les principaux objectifs de Dreamvo sont donc :
 - Un modèle économique en grande partie basé sur les dons et les abonnements
 - Mettre davantage en avant le contenu de qualité et la nouveauté
   
-## Un projet ambicieux mais réalisable
-Bien que le projet peut sembler irréalisable ou trop ambicieux, nous pensons qu'il ne faut simplement pas brûler d'étape. Le grand public n'est peut être pas prêt à se débarrasser de YouTube, mais ça viendra tôt ou tard, qu'on le veuille ou non, et rien ne nous empêche de créer une alternative à ce dernier et de développer un YouTube meilleur petit à petit, sans dépenser des grosses sommes en serveurs ou en marketing. Le premier objectif est de lancer une solution pour tous ceux qui sont directement impactés par la politique actuelle de YouTube, ses principaux défauts, à savoir les droits d'auteur, la censure et la monétisation.
+## Un projet ambitieux mais réalisable
+Bien que le projet peut sembler irréalisable ou trop ambitieux, nous pensons qu'il ne faut simplement pas brûler d'étape. Le grand public n'est peut être pas prêt à se débarrasser de YouTube, mais ça viendra tôt ou tard, qu'on le veuille ou non, et rien ne nous empêche de créer une alternative à ce dernier et de développer un YouTube meilleur petit à petit, sans dépenser des grosses sommes en serveurs ou en marketing. Le premier objectif est de lancer une solution pour tous ceux qui sont directement impactés par la politique actuelle de YouTube, ses principaux défauts, à savoir les droits d'auteur, la censure et la monétisation.
 
 # Contribuer
 Vous êtes développeur, journaliste, programmeur, vidéaste ou simple spectateur ? Vous avez tous le pouvoir de contribuer au développement de cette plateforme, vous n'avez pas besoin de savoir coder pour contribuer ! <a href="https://github.com/Chocobozzz/PeerTube/blob/develop/.github/CONTRIBUTING.md">Plus d'infos</a>

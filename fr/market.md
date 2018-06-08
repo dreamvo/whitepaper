@@ -8,6 +8,14 @@ Lancer une plateforme de partage de vidéo n'est pas une chose facile. Première
 
 ## Les acteurs
 
+| Plateforme        | Décentralisée           | Open source  | Source(s) de revenue  | Version  |
+| ------------- |-------------|-----|-----|-----|
+| YouTube      | Non | Non | Publicité/abonnements |   Production |
+| View.ly      | Oui (blockchain)      | Oui |   Crypto/dons |   Bêta |
+| D.Tube | Oui (blockchain)      | Oui |    Crypto/dons |   Bêta |
+| PeerTube | Oui (P2P)      | Oui |    Dons |   Bêta |
+| Thetatoken | Oui (blockchain)      | Oui |    Crypto/dons |   Alpha |
+
 #### [View.ly](https://view.ly/)
 Viewly est une plateforme de partage de vidéo décentralisée et open source qui fonctionne sur la blockchain. Le projet se focalise sur 3 problèmes clés des plateformes propriétaires : la démonétisation, la publicité et le coût d'une plateforme FOSS en charge de serveur. Pour répondre à ses problèmatiques, Viewly propose les solutions suivantes : un support financier directement par la communauté, une plateforme sans publicité et de la diffusion utilisant le réseau pair-à-pair (P2P). La blockchain joue aussi un rôle majeur car elle permet de contrôler la monétisation sans passer par la plateforme comme intermédiaire. Les donations arrivent directement dans la poche du créateur. La plateforme fonctionne sur avec un système de relais. Cela veut dire qu'une plateforme constitue un relai et que pour chaque relai, c'est une source supplémentaire pour la diffusion de vidéos. Les développeurs ont rédigé [un document](https://view.ly/downloads/whitepaper.pdf) détaillé sur les solutions qu'ils ont voulu apporter avec Viewly.
 

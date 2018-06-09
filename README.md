@@ -2,8 +2,8 @@
 Dreamvo project documentation
 
 ## English
-* <a href="en/intro.md">Introduction</a>
-* User experience
+* [Introduction](en/intro.md)
+* [User experience](en/ux.md)
 * License
 
 ### Problems and solutions
@@ -22,12 +22,12 @@ Dreamvo project documentation
 ## French
 
 ### Le projet
-* <a href="fr/intro.md">Introduction</a>
-* <a href="fr/ux.md">Expérience utilisateur</a>
-* <a href="fr/license.md">La licence</a>
+* [Introduction](fr/intro.md)
+* [Expérience utilisateur](fr/ux.md)
+* [La licence](fr/license.md)
 
 ### Problèmatiques et solutions
-* <a href="fr/moderation.md">Comment gérer la modération constante des vidéos ?</a>
+* [Comment gérer la modération constante des vidéos ?](fr/moderation.md)
 * Étude de marché
 * Le modèle économique
 * La cryptomonnaie dans le partage de vidéo

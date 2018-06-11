@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://dreamvo.com"><img src="./images/logo.png" alt="Dreamvo"></a>
+	<a href="https://dreamvo.com"><img src="./images/logo.png" alt="Dreamvo" width="580"></a>
 </p>
 <h3 align="center">Take back the control of your videos</h3>
 <p align="center">Dreamvo is a decentralized video sharing platform that focus on quality content and user experience.</p>
@@ -10,7 +10,7 @@
 
 ---
 
-Dreamvo is a free and open source decentralized video platform project. The project aims to create an alternative to YouTube that offers another vision of sharing, viewing and managing its audiovisual content on the web.
+Dreamvo is a free and open source decentralized video platform. The main goal is to create an alternative to YouTube that offers another vision of sharing, viewing and managing its audiovisual content on the web.
 
 ## English
 * [Introduction](en/intro.md)

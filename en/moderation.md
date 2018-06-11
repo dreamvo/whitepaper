@@ -4,4 +4,4 @@ To guarantee a good user experience on our platform we need to moderate the post
 
 Thanks to algorithms and AI it is possible to analyse the content and learn how to be efficient to impose a strict guideline for all users. The main content to detect and punish are pornography, offensive content, violent or including inapropriate words (racism, harassment, ...).
 
-However we can't fully replace human moderation, which wil always be more efficent than automated analysis which can draw us into censorship.
+However we can't fully replace human moderation, which will always be more efficient than automated analyzes which can lead us into censorship.

@@ -18,7 +18,7 @@ Dreamvo is a free and open source decentralized video platform. The main goal is
 * [License](en/license.md)
 
 ### Problems and solutions
-* How to manage the videos moderation constantly
+* [How to manage the videos moderation constantly](en/moderation.md)
 * Market study
 * Economic model
 * The role of cryptocurrency in video sharing

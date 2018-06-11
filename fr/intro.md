@@ -1,7 +1,12 @@
-<p align="center"><img src="../images/tmp_logo.png" alt="" /><br>Temporary logo</p>
+<p align="center">
+	<a href="https://dreamvo.com"><img src="../images/logo.png" alt="Dreamvo" width="580"></a>
+</p>
+<h3 align="center">Reprenez le contrôle de vos vidéos</h3>
+<p align="center">Dreamvo est une plateforme de partage de vidéo décentralisée qui met en avant l'expérience utilisateur.</p>
 
-# Dreamvo
-Dreamvo est un projet de plateforme de vidéo décentralisée gratuite et open source. Le projet à pour but de créer une alternative à YouTube qui offrirait une autre vision du partage, du visionnage et de la gestion de son contenu audiovisuel sur le web. Il s'agit d'une plateforme destinée à un large public et pas seulement à un public francophone.
+---
+
+Dreamvo est un projet de plateforme de vidéo décentralisée gratuite et open source. Le projet a pour but de créer une alternative à YouTube qui offrirait une autre vision du partage, du visionnage et de la gestion de son contenu audiovisuel sur le web. Il s'agit d'une plateforme destinée à un large public et pas seulement à un public francophone.
 
 ## La décentralisation, le futur du partage de vidéo ?
 Le principe de la décentralisation repose sur la possibilité de contribution des utilisateurs. Dans ce contexte précis, décentraliser les vidéos permet d'éviter de dépenser des énormes sommes dans des serveurs et de profiter de la puissance du réseau P2P.

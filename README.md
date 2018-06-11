@@ -4,7 +4,7 @@ Dreamvo project documentation
 ## English
 * [Introduction](en/intro.md)
 * [User experience](en/ux.md)
-* License
+* [License](en/license.md)
 
 ### Problems and solutions
 * How to manage the videos moderation constantly

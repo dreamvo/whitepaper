@@ -40,7 +40,7 @@ These models are interesting and adapted to such a project, but there is a probl
 
 <p align="center"><img src="../images/tweet1.png" alt="" /><br><a href="https://twitter.com/_Amixem/status/953612321707917312">Tweet original</a></p>
 
-"Youtube monetization since early January is divided by 4, I will soon have to open a tipee to pay my gasoline 😜. In truth it's shit and for small channels it's catastrophic.Imagine that your salary goes from 1000 € to 300 € overnight ..."
+>@_Amixem : Youtube monetization since early January is divided by 4, I will soon have to open a tipee to pay my gasoline 😜. In truth it's shit and for small channels it's catastrophic. Imagine that your salary goes from 1000 € to 300 € overnight...
 
 ## Take back power with a healthy business model
 

@@ -23,6 +23,10 @@ Viewly est une plateforme de partage de vidéo décentralisée et open source qu
 
 D.Tube est une plateforme de partage de vidéo décentralisée qui utilise la blockchain et la cryptomonnaie pour rémunérer ses utilisateurs. Le concept de D.Tube c'est une plateforme libre où chacun peut partager et regarde du contenu sans publicité, sans algorithme de recommandation et tout en gagnant de l'argent.
 
+## Analyse SWOT
+
+![swot analysis](https://i.imgur.com/rJ3gaUt.png)
+
 ## Méthodologie : Les Problèmes, le Pourquoi, le Comment
 
 ### Les Problèmes
@@ -44,3 +48,11 @@ Les solutions apportées à ces problèmatiques n'ont qu'un seul but : redonner 
 ### Le Comment
 
 ...
+
+<p align="center">
+  <img src="https://i.imgur.com/KSWNLzU.png" alt="">
+</p>
+
+## Les cibles
+
+![marketing targets](https://i.imgur.com/ztVcQLo.png)

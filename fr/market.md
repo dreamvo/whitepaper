@@ -17,11 +17,12 @@ Lancer une plateforme de partage de vidéo n'est pas une chose facile. Première
 | [Thetatoken](https://www.thetatoken.org/) | Oui (blockchain)      | Oui |    Crypto/dons |   Alpha |
 
 #### View.ly
-Viewly est une plateforme de partage de vidéo décentralisée et open source qui fonctionne sur la blockchain. Le projet se focalise sur 3 problèmes clés des plateformes propriétaires : la démonétisation, la publicité et le coût d'une plateforme FOSS en charge de serveur. Pour répondre à ses problèmatiques, Viewly propose les solutions suivantes : un support financier directement par la communauté, une plateforme sans publicité et de la diffusion utilisant le réseau pair-à-pair (P2P). La blockchain joue aussi un rôle majeur car elle permet de contrôler la monétisation sans passer par la plateforme comme intermédiaire. Les donations arrivent directement dans la poche du créateur. La plateforme fonctionne sur avec un système de relais. Cela veut dire qu'une plateforme constitue un relai et que pour chaque relai, c'est une source supplémentaire pour la diffusion de vidéos. Les développeurs ont rédigé [un document](https://view.ly/downloads/whitepaper.pdf) détaillé sur les solutions qu'ils ont voulu apporter avec Viewly.
+
+Viewly est une plateforme de partage de vidéo décentralisée et open source qui fonctionne sur la blockchain. Le projet se focalise sur 3 problèmes clés des plateformes propriétaires : la démonétisation, la publicité et le coût de la charge de serveur. Pour répondre à ses problèmatiques, Viewly propose les solutions suivantes : un support financier directement par la communauté, une plateforme sans publicité et de la diffusion utilisant le réseau pair-à-pair (P2P). La blockchain joue aussi un rôle majeur car elle permet de contrôler la monétisation sans passer par la plateforme comme intermédiaire. Les donations arrivent directement dans la poche du créateur. La plateforme fonctionne sur avec un système de relais. Cela veut dire qu'une plateforme constitue un relai et que pour chaque relai, c'est une source supplémentaire pour la diffusion de vidéos.
 
 #### D.Tube
 
-D.Tube est une plateforme de partage de vidéo décentralisée qui utilise la blockchain et la cryptomonnaie pour rémunérer ses utilisateurs. Le concept de D.Tube c'est une plateforme libre où chacun peut partager et regarde du contenu sans publicité, sans algorithme de recommandation et tout en gagnant de l'argent.
+D.Tube est une plateforme de partage de vidéo décentralisée qui utilise la blockchain et la cryptomonnaie pour rémunérer ses utilisateurs. Le concept de D.Tube c'est une plateforme libre où chacun peut partager et regarder du contenu sans publicité, sans algorithme de recommandation et le tout en gagnant de l'argent. Sur D.Tube, les vues se comptent en dollars.
 
 ## Analyse SWOT
 
@@ -31,7 +32,7 @@ D.Tube est une plateforme de partage de vidéo décentralisée qui utilise la bl
 
 ### Le Pourquoi
 
-Les principaux problèmes des plateforme propriétaires telles que YouTube sont la censure, les droits d'auteur et la publicité. Les annonceurs ont énormément de pouvoir sur le modèle économique de la plateforme. Ainsi ils vont toujours faire en sorte d'utiliser cette influence en leur faveur, au dépend d'une plateforme qui promu du contenu de qualité. Les clics génères de l'argent, et non le contenu. C'est un vrai problème car cela incite les créateurs à vendre leur contenu comme des annonces publicitaires et non avec leur travail, tel qu'ils le méritent. Les conséquences de cette influence augmente également la censure, les annonceurs ne voulant pas être associés à certains types de contenu, ils ont le pouvoir de demander la démonétisation d'une vidéo. En l'espace d'une année, certains vidéastes ont vu leur revenus être divisés par 3 à cause de la pression mise par les annonceurs, qui pénalisent la totalité des utilisateurs. Dans notre étude, 78% des participants pensent que la publicité est une bonne alternative aux donations ou aux abonnements pour rémunérer les créateurs de contenu. Ce qui est vrai, mais 44% se sentent proches de leurs vidéastes favoris à plus de 7 sur une échelle de 1 à 10. Et seulement 26% d'entre eux déclarent ne pas vouloir financer des vidéastes s'ils dépendaient uniquement des donations.
+Les principaux problèmes des plateformes propriétaires telles que YouTube sont la censure, les réclamations pour droits d'auteur et la publicité. Les annonceurs ont énormément de pouvoir sur le modèle économique de la plateforme. Ainsi ils vont toujours faire en sorte d'utiliser cette influence en leur faveur, au dépend d'une plateforme qui promeut du contenu de qualité. Ce sont les clics génèrent de l'argent, et non le contenu. C'est un vrai problème car cela incite les créateurs à vendre leur contenu comme des annonces publicitaires et non avec leur travail, tel qu'ils le méritent. Les conséquences de cette influence augmente également la censure, les annonceurs ne voulant pas être associés à certains types de contenu, ils ont le pouvoir de demander la démonétisation d'une vidéo. En l'espace d'une année, certains vidéastes ont vu leur revenus être divisés par 3 à cause de la pression mise par les annonceurs, qui pénalisent la totalité des utilisateurs. Dans notre étude, 78% des participants pensent que la publicité est une bonne alternative aux donations ou aux abonnements pour rémunérer les créateurs de contenu. Ce qui est vrai, mais 44% se sentent proches de leurs vidéastes favoris à plus de 7 sur une échelle de 1 à 10. Et seulement 26% d'entre eux déclarent ne pas vouloir financer des vidéastes s'ils dépendaient uniquement des donations.
 
 YouTube veut résoudre ces problèmes de contenus toxiques en optant pour l'usage des algorithmes. C'est la plateforme qui choisi ce que vous devez regarder, parfois sans rapport avec vos habitudes de visionnage. C'est une façon de découvrir du contenu certes, mais ça empêche l'utilisateur d'être maître du contenu qu'il retrouve sur la plateforme. Tout est calculé pour vous faire consommer du contenu. Dans notre étude, **43% des personnes** déclarent regarder des vidéos pendant plus de 3 heures par jours. Les algorithmes ont donc un impacte considérable sur leur choix de visionnage. Les algorithmes choisissent également quelles vidéos doivent être mises en avant. Lorsqu'une vidéo n'est pas monétisée, elle sera moins mise en avant qu'une vidéo qui rapporte de l'argent. C'est la façon qu'a YouTube de rendre la plateforme plus viable financièrement, mais uniquement dans l'intérêt des annonceurs.
 
@@ -39,7 +40,7 @@ YouTube veut résoudre ces problèmes de contenus toxiques en optant pour l'usag
   <img src="https://i.imgur.com/Hxl6vCi.png" alt="">
 </p>
 
-Les plateforme décentralisées existantes répondent à la plupart de ces problèmatiques, mais elles ne sont toujours pas au point pour remplacer YouTube auprès du grand public pour plusieurs raisons : ces plateformes sont pour la plupart en version alpha ou bêta, elles présentent donc des fonctionnalités limitées. Par conséquent il serait difficile pour un vidéaste de migrer vers une plateforme qui ne lui permet que de partager ses vidéos sans avoir les fonctionnalités qui vont lui permettre d'intéragir efficacement avec sa communauté et de contrôler son activité professionnelle sur le web. Certes le vidéaste serait libéré de la censure, de la pression des annonceurs et des effets négatifs de l'utilisation des algorithmes, mais se retrouverait sur une plateforme avec un tout nouveau public et avec des fonctionnalités qui ne répondent pas forcément à leurs attentes.
+Les plateformes décentralisées existantes répondent à la plupart de ces problèmatiques, mais elles ne sont toujours pas au point pour remplacer YouTube auprès du grand public pour plusieurs raisons : ces plateformes sont pour la plupart en version alpha ou bêta. Elles présentent donc des fonctionnalités limitées. Par conséquent il serait difficile pour un vidéaste de migrer vers une plateforme qui ne lui permet que de partager ses vidéos sans avoir les fonctionnalités qui vont lui permettre d'intéragir efficacement avec sa communauté et de gérer son activité. Certes le vidéaste serait libéré de la censure, de la pression des annonceurs et des effets négatifs de l'utilisation des algorithmes, mais se retrouverait sur une plateforme avec un tout nouveau public et avec des fonctionnalités qui ne répondent pas forcément à leurs attentes.
 
 Les alternatives décentralisées actuelles fonctionnent pour la plupart que sur des systèmes encore expérimentaux. Il y a très peu d'alternatives qui prétendent avoir réellement fait de la recherche concernant l'expérience utilisateur. Hors c'est la principale raison qui profitera à la migration du grand public vers une nouvelle plateforme.
 
@@ -47,9 +48,9 @@ Les solutions apportées à ces problèmatiques ont un but principal : redonner 
 
 ### Le Comment
 
-Les principaux problèmes doivent obligatoirement être résolus. La décentralisation et l'écosystème de PeerTube permet d'éviter la censure abusive et de limiter au maximum la réclamation de droits d'auteur. Les réclamation de droits d'auteur seront prises en compte et seront étudiées, mais des règles strictes seront établies à ce sujet. Par exemple, il ne sera pas autorisé de publier un film entièrement sur la plateforme, ou la musique d'un artiste indépendant. De multiples sanctions pourront être mises en place. Allant du crédit forcé, à la suppression de la vidéo, voire du bannissement de la chaîne en cas de répercution.
+Les principaux problèmes doivent obligatoirement être résolus. La décentralisation et l'écosystème de PeerTube permet d'éviter la censure abusive et de limiter au maximum la réclamation de droits d'auteur. Les réclamations de droits d'auteur seront prises en compte et seront étudiées, mais des règles strictes seront établies à ce sujet. Par exemple, il ne sera pas autorisé de publier un film entier, ou la musique d'un artiste indépendant sur la plateforme. De multiples sanctions pourront être mises en place. Allant du crédit forcé, à la suppression de la vidéo, voire du bannissement de la chaîne en cas de répercution. [En savoir plus sur la modération de contenu](/fr/moderation.md)
 
-Afin d'apporter de la valeur au projet auprès de la majorité des créateurs, nous voulons mettre l'accent sur l'aspect communautaire et social de la plateforme et ainsi offrir une expérience utilisateur innovante :
+Afin d'apporter de la valeur au projet auprès de la majorité des créateurs, nous voulons mettre l'accent sur l'aspect communautaire et social de la plateforme et ainsi offrir une expérience utilisateur innovante. Un aperçu des fonctionnalités que nous voulons implémenter :
 
 * Système de karma pour les utilisateurs
 * Comptes utilisateurs strictement privés
@@ -57,15 +58,16 @@ Afin d'apporter de la valeur au projet auprès de la majorité des créateurs, n
 * Fil d'actualité personnalisable
 * Système d'upvote pour les vidéos et commentaires
 * Emoticons de chaînes personnalisables pour les commentaires
-* Fil d'acualité filtrable : par date (nouveauté), tendances sur un temps donné, tendances de tous les temps ...
+* Fil d'acualité filtrable : par date (nouveauté), tendances sur une période, tendances de tous les temps etc.
+* Du contenu exclusif pour vos abonnés
 
-La sécurité et la vie privée des utilisateurs est très importantes à nos yeux. Nous seront très transparent sur les données collectés et les problèmes liés à la sécurité.
+La sécurité et la vie privée des utilisateurs est très importantes à nos yeux. Nous devons être très transparent sur les données collectés et les problèmes liés à la sécurité.
 
 <p align="center">
   <img src="https://i.imgur.com/KSWNLzU.png" alt="">
 </p>
 
-~modèle éco
+Un modèle économique non basé sur la publicité permettra de redonner le contrôle aux créateurs et à leur communauté. Avec des abonnements payants, et des donations. [Découvrez comment nous souhaitons rémunérer le contenu sur Dreamvo](/fr/business-model.md)
 
 ## Les cibles
 

@@ -26,7 +26,7 @@ D.Tube est une plateforme de partage de vidéo décentralisée qui utilise la bl
 
 ## Analyse SWOT
 
-![swot analysis](https://i.imgur.com/rJ3gaUt.png)
+![swot analysis](https://i.imgur.com/nGZUbO2.png)
 
 ## Méthodologie : Le Pourquoi, le Comment
 
@@ -64,11 +64,11 @@ Afin d'apporter de la valeur au projet auprès de la majorité des créateurs, n
 La sécurité et la vie privée des utilisateurs est très importantes à nos yeux. Nous devons être très transparent sur les données collectés et les problèmes liés à la sécurité.
 
 <p align="center">
-  <img src="https://i.imgur.com/KSWNLzU.png" alt="">
+  <img src="https://i.imgur.com/Tv2Bgoc.png" alt="">
 </p>
 
 Un modèle économique non basé sur la publicité permettra de redonner le contrôle aux créateurs et à leur communauté. Avec des abonnements payants, et des donations. [Découvrez comment nous souhaitons rémunérer le contenu sur Dreamvo](/fr/business-model.md)
 
 ## Les cibles
 
-![marketing targets](https://i.imgur.com/ztVcQLo.png)
+![marketing targets](https://i.imgur.com/YuS4e8o.png)

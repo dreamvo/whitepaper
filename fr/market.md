@@ -1,6 +1,6 @@
 # Étude de marché
 
-Ce document a pour but d'analyser le marché du partage de vidéo, de comprendre les attentes du public et de définir les enjeux d'un tel projet. Pour cela nous nous appuierons sur notre questionnaire sur le partage de vidéo diffusé durant le mois de Mars et Mai 2018 pour lequel nous avons récolté plus de 80 réponses de personnes entre 15 et 35 ans.
+Ce document a pour but d'analyser le marché du partage de vidéo, de comprendre les attentes du public et de définir les enjeux d'un tel projet. Pour cela nous nous appuierons sur notre questionnaire sur le partage de vidéo diffusé durant le mois de Mars et Mai 2018 pour lequel nous avons récolté plus de 80 réponses. Le questionnaire est un un sondage d’opinion global, diffusé du 03/05/2018 au 26/07/2018. Il a été envoyé à un groupe de personnes entre 15 et 35 ans, résidant en France métropolitaine et composé de 82% d'hommes et 17% de femmes (1% non précisé). 87% des sondés ont indiqué être principalement spectateurs. 12% ont indiqué être vidéaste amateur créant et diffusant régulièrement des vidéos. Le questionnaire est [disponible ici](https://goo.gl/forms/EAysGvDQJ4x301D22).
 
 Le marché du partage de vidéo auquel nous faisons référence est celui des plateformes de partage de vidéos composés d'acteurs listés plus bas. Il s'agit de vidéos tout public appartenant principalement à ces catégories :
 
@@ -41,7 +41,7 @@ Lancer une plateforme de partage de vidéo n'est pas une chose facile. Première
 | [PeerTube](https://joinpeertube.org/) | Oui (P2P)      | Oui |    Dons |   Bêta |
 | [Thetatoken](https://www.thetatoken.org/) | Oui (blockchain)      | Oui |    Crypto/dons |   Alpha |
 
-{présenter rapidement: youtube,vimeo,dailymotion}
+**{présenter rapidement: youtube,vimeo,dailymotion}**
 
 #### View.ly
 
@@ -89,6 +89,8 @@ Afin d'apporter de la valeur au projet auprès de la majorité des créateurs, n
 * Émoticons de chaînes personnalisables dans les commentaires
 * Fil d'acualité filtrable : par date (nouveauté), tendances sur une période, tendances de tous les temps...
 * Du contenu exclusif pour les abonnés
+
+**{argumenter sur l'aspect communautaire}**
 
 La sécurité et la vie privée des utilisateurs est très importantes à nos yeux. Nous devons être très transparent sur les données collectés et les problèmes liés à la sécurité.
 

@@ -2,14 +2,13 @@
 
 Ce document a pour but d'analyser le marché du partage de vidéo, de comprendre les attentes du public et de définir les enjeux d'un tel projet. Pour cela nous nous appuierons sur notre questionnaire sur le partage de vidéo diffusé durant le mois de Mars et Mai 2018 pour lequel nous avons récolté plus de 80 réponses. Le questionnaire est un un sondage d’opinion global, diffusé du 03/05/2018 au 26/07/2018. Il a été envoyé à un groupe de personnes entre 15 et 35 ans, résidant en France métropolitaine et composé de 82% d'hommes et 17% de femmes (1% non précisé). 87% des sondés ont indiqué être principalement spectateurs. 12% ont indiqué être vidéaste amateur créant et diffusant régulièrement des vidéos. Le questionnaire est [disponible ici](https://goo.gl/forms/EAysGvDQJ4x301D22).
 
-Le marché du partage de vidéo auquel nous faisons référence est celui des plateformes de partage de vidéos composés d'acteurs listés plus bas. Il s'agit de vidéos tout public appartenant principalement à ces catégories :
+Le marché du partage de vidéo auquel nous faisons référence est celui des plateformes de partage de vidéos composés d'acteurs listés plus bas. Il s'agit de vidéos tout public appartenant principalement aux catégories listées ci-dessous :
 
 - Auto & Véhicules
 - Beauté et Fashion
 - Comédie
 - Éducation
 - Divertissement
-- Divertissement Familial
 - Film & Animation
 - Nourriture & Cuisine
 - Jeux vidéo
@@ -18,10 +17,10 @@ Le marché du partage de vidéo auquel nous faisons référence est celui des pl
 - Actualité & Politique
 - Activisme
 - People & Blogs
-- Animaux domestiques
+- Nature & Animaux
 - Science & Technologie
-- Sports
 - Voyage & Événements
+- Sports
 
 *Pour faciliter les futurs traductions, les images et schémas seront rédigés en anglais.*
 
@@ -38,10 +37,24 @@ Lancer une plateforme de partage de vidéo n'est pas une chose facile. Première
 | [Dailymotion](https://www.dailymotion.com/)      | Non | Non | Publicité |   Production |
 | [View.ly](https://view.ly/)      | Oui (blockchain)      | Oui |   Crypto/dons |   Bêta |
 | [D.Tube](https://d.tube/) | Oui (blockchain)      | Oui |    Crypto/dons |   Bêta |
-| [PeerTube](https://joinpeertube.org/) | Oui (P2P)      | Oui |    Dons |   Bêta |
-| [Thetatoken](https://www.thetatoken.org/) | Oui (blockchain)      | Oui |    Crypto/dons |   Alpha |
+| [PopChest](https://popchest.com/) | Oui (P2P)      | Oui |    Crypto/dons |   Bêta |
+| [PeerTube](https://joinpeertube.org/) | Oui (P2P)      | Oui |    Aucune |   Bêta |
 
-**{présenter rapidement: youtube,vimeo,dailymotion}**
+#### YouTube
+
+Il est clair que YouTube fait partie de nos plus solides concurrents. Près de 14 ans d'existance et leader du marché avec des millions d'utilisateurs chaque jour, il s'agit de la plateforme d'hébergement vidéo la plus consultée et la plus populaire au monde. La force de cette plateforme repose sur sa popularité mais aussi sur ces ressources, l'entreprise étant détenu par Google. Jusqu'à aujourd'hui, le modèle économique de YouTube reposait sur la publicité. Les annonceurs pouvait sponsoriser leurs vidéos afin qu'elles soient diffusées en tant que publicité au début d'autres vidéos pour les utilisateurs ciblés. Ces dernières années, YouTube a dû se montrer plus stricte concernant les conditions de monétisation face aux abus mais surtout face à la pression mise par les annonceurs. En effet, suite à des dérapage de la part de certains vidéastes les plus influents, les annonceurs se sont montrés de plus en plus réticents à l'idée d'être associés à certains types de contenu (racisme, insultes, discrimination, propagande ...). À cause de ce genre d'histoires, la valeur de la monétisation est donc impactée et ce, pour l'ensemble des vidéastes de la plateforme. Face à ce problème, YouTube a développé il y a peu des offres payantes et un système de donation permettant au vidéastes d'être rémunérés grâce aux dons et à l'argent des abonnements.
+
+YouTube pose également problème pour le spectateur : [algorithmes, tendances...]
+
+#### Vimeo
+
+...
+
+#### Dailymotion
+
+...
+
+### Alternatives décentralisées
 
 #### View.ly
 
@@ -50,6 +63,16 @@ Viewly est une plateforme de partage de vidéo décentralisée et open source qu
 #### D.Tube
 
 D.Tube est une plateforme de partage de vidéo décentralisée qui utilise la blockchain et la cryptomonnaie pour rémunérer ses utilisateurs. Le concept de D.Tube c'est une plateforme libre où chacun peut partager et regarder du contenu sans publicité, sans algorithme de recommandation et le tout en gagnant de l'argent. Sur D.Tube, les vues se comptent en dollars.
+
+#### PopChest
+
+...
+
+#### PeerTube
+
+PeerTube est un projet de plateforme de partage de vidéo libre, open source et décentralisé créée par Chocobozzz et sponsorisé principalement par Framasoft. Le principe est simple : créer un écosystème décentralisé constitué de plusieurs plateformes qui peuvent s’allier. PeerTube n’est pas une seule plateforme d’hébergement vidéo avec un unique groupe de règles : c’est un réseau de dizaines d’hébergeurs interconnectés, et chaque hébergeur est composé de personnes et d’administrateurs différents. Vous n’aimez pas certaines règles ? Vous êtes libre de rejoindre l’hébergeur de votre choix, ou mieux encore, être votre propre hébergeur avec vos propres règles !
+
+PeerTube représente donc une application que chacun peut télécharger et installer sur son propre serveur et en proposer sa propre version. En s’alliant avec d’autres instances de PeerTube, les vidéos sont partagées sur les instances alliées et à terme, la redondance pourra même être partagée.
 
 ## Analyse SWOT
 
@@ -92,11 +115,7 @@ Afin d'apporter de la valeur au projet auprès de la majorité des créateurs, n
 
 **{argumenter sur l'aspect communautaire}**
 
-La sécurité et la vie privée des utilisateurs est très importantes à nos yeux. Nous devons être très transparent sur les données collectés et les problèmes liés à la sécurité.
-
-<p align="center">
-  <img src="https://i.imgur.com/Tv2Bgoc.png" alt="">
-</p>
+La sécurité et le respect de la vie privée des utilisateurs sont des aspects également très importants à nos yeux. Nous devons être transparent sur les données collectés et les problèmes liés à la sécurité.
 
 Un modèle économique non basé sur la publicité permettra de redonner le contrôle aux créateurs et à leur communauté. Avec des abonnements payants, et des donations (ponctuelles ou mensuelles). [Découvrez comment nous souhaitons rémunérer le contenu sur Dreamvo](/fr/business-model.md)
 

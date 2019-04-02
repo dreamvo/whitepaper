@@ -1,0 +1,16 @@
+- **Introduction**
+    - [Introduction](en_us/intro.md)
+    - [User experience](en_us/ux.md)
+    - [License](en_us/license.md)
+- **Problems and solutions**
+    - [Videos moderation](en_us/moderation.md)
+- **-- Coming soon --**
+    - [Market study](#)
+    - [Economic model](#)
+    - [The role of cryptocurrency in video sharing](#)
+- **Development**
+    - [Video conversion using FFmpeg](#)
+    - [Decentralized video sharing with WebTorrent and WebSeed](#)
+    - [Web application](#)
+    - [Mobile application](#)
+    - [Technical architecture](#)

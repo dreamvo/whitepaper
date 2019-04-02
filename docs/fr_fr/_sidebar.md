@@ -1,0 +1,17 @@
+- **Introduction**
+    - [Introduction](fr_fr/intro.md)
+    - [Expérience utilisateur](fr_fr/ux.md)
+    - [La licence](fr_fr/license.md)
+- **Problèmatiques et solutions**
+    - [Comment gérer la modération constante des vidéos ?](fr_fr/moderation.md)
+    - [Étude de marché](#)
+    - [Le modèle économique](#)
+    - [La cryptomonnaie dans le partage de vidéo](#)
+- **Développement**
+    - [La conversion vidéo avec FFmpeg](#)
+    - [Du partage de vidéos décentralisé avec WebTorrent et WebSeed](#)
+    - [L'application web](#)
+    - [L'application mobile](#)
+    - [Architecture technique](#)
+- **Lancement**
+    - [Une version alpha](#)

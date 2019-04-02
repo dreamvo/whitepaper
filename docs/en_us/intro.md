@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://dreamvo.com"><img src="../images/logo.png" alt="Dreamvo" width="580"></a>
+	<a href="https://dreamvo.com"><img src="images/logo.png" alt="Dreamvo" width="580"></a>
 </p>
 <h3 align="center">Take back the control of your videos</h3>
 <p align="center">Dreamvo is a decentralized video sharing platform that focus on quality content and user experience.</p>
@@ -17,11 +17,11 @@ The problem that PeerTube wanted to raise is that we can not create video stream
 
 So we need a decentralized server network that <a href="https://www.quora.com/What-are-seeds-peers-and-leeches-in-Torrents-language">seeds</a> videos (like Diaspora for example). But that's not enough because a video could become famous and overload the server. That's why we need to use a P2P protocol to limit the server load. Thanks to WebTorrent, we can do P2P directly in the web browser. This means that a user can watch a video just by looking at it from their browser, it's like sharing the video stream you're downloading by watching a video on YouTube to someone else watching the same video at the same time. Even if no one watches a video, it remains accessible via the main server via the <a href="http://getright.com/seedtorrent.html">WebSeed protocol</a>. Decentralization also makes it possible to migrate to another platform without having to re-upload all of its videos since they are already available for import from the P2P network.
 
-<p align="center"><img src="../images/screen2.png" alt="" /></p>
+<p align="center"><img src="images/screen2.png" alt="" /></p>
 
 Currently, PeerTube is still in development but contains many features that are usually found as subtitles, an NSFW content detection algorithm, the ability to integrate the HTML5 player as well as many basic features we can find on YouTube. PeerTube is not yet ready to be deployed in a production environment, but it should be ready in the coming months.
 
-<p align="center"><img src="../images/screen1.png" alt="" /></p>
+<p align="center"><img src="images/screen1.png" alt="" /></p>
 
 ## A suitable business model
 Develop a solid business model is important. It's necessary to generate profit but also to pay the creators of contents, avoiding the recourse to ads. What if the user could also contribute financially to the development of the platform? The <a href="https://medium.com/precoil/what-is-the-business-model-for-a-twitch-streamer-f3b9e5351666">Twitch business model</a> is based on subscriptions. Channels that meet on certain criteria are eligible for a partnership with Twitch which allows them to enable the paid subscription of 4.99 € per month.
@@ -38,7 +38,7 @@ Another example, <a href="https://www.feedough.com/reddit-make-money-reddit-busi
 
 These models are interesting and adapted to such a project, but there is a problem: How to convince the audience to migrate to a new platform knowing that they will have to pay to support their favorite videographers because advertising, being less present, will bring back less money? We believe that the answer lies in the solutions that we offer to videographers and their community, namely more flexible copyright rules, better content management, better contact with their community, a platform that evolves with its community as well as many features to enhance each user's experience.
 
-<p align="center"><img src="../images/tweet1.png" alt="" /><br><a href="https://twitter.com/_Amixem/status/953612321707917312">Tweet original</a></p>
+<p align="center"><img src="images/tweet1.png" alt="" /><br><a href="https://twitter.com/_Amixem/status/953612321707917312">Tweet original</a></p>
 
 >@_Amixem : Youtube monetization since early January is divided by 4, I will soon have to open a tipee to pay my gasoline 😜. In truth it's shit and for small channels it's catastrophic. Imagine that your salary goes from 1000 € to 300 € overnight...
 

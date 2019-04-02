@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://dreamvo.com"><img src="../images/logo.png" alt="Dreamvo" width="580"></a>
+	<a href="https://dreamvo.com"><img src="images/logo.png" alt="Dreamvo" width="580"></a>
 </p>
 <h3 align="center">Reprenez le contrôle de vos vidéos</h3>
 <p align="center">Dreamvo est une plateforme de partage de vidéo décentralisée qui met en avant l'expérience utilisateur.</p>
@@ -17,11 +17,11 @@ La problèmatique qu'a voulu soulever PeerTube c'est que nous ne pouvons pas cr�
 
 Nous avons donc besoin d'un réseau de serveurs décentralisé qui <a href="http://www.commentcamarche.net/faq/19276-seeders-et-leechers">seedent</a> des vidéos (comme Diaspora par exemple). Mais ce n'est pas suffisant car une vidéo pourrait devenir célèbre et surcharger le serveur. C'est la raison pour laquelle nous devons utiliser un protocole P2P pour limiter la charge du serveur. Grâce à WebTorrent, nous pouvons faire du P2P directement dans le navigateur web. Cela veut dire qu'un utilisateur peut seeder une vidéo simplement en la regardant depuis son navigateur, c'est comme si vous partagiez le flux vidéo que vous téléchargiez en regardant une vidéo sur YouTube à quelqu'un d'autre qui regarde la même vidéo en même temps. Même si personne ne regarde une vidéo, elle reste accessible via le serveur principal via le <a href="http://getright.com/seedtorrent.html">protocole WebSeed</a>. La décentralisation permet également de migrer sur une autre plateforme sans devoir réuploader toutes ses vidéos puisqu'elles sont déjà disponibles à l'importation depuis le réseau P2P.
 
-<p align="center"><img src="../images/screen2.png" alt="" /></p>
+<p align="center"><img src="images/screen2.png" alt="" /></p>
 
 Actuellement, PeerTube est encore en développement mais contient de nombreuses fonctionnalités que l'on retrouve habituellement comme des sous-titres, un algorithme de détection de contenu NSFW, la possibilité d'intégrer le player HTML5 ainsi que de nombreuses fonctionnalités de base que l'on retrouve sur YouTube. PeerTube n'est pas encore prêt à être déployé dans un environnement de production, mais il devrait pouvoir l'être dans les mois à venir.
 
-<p align="center"><img src="../images/screen1.png" alt="" /></p>
+<p align="center"><img src="images/screen1.png" alt="" /></p>
 
 ## Un modèle économique adapté
 Mettre en place un modèle économique solide est important. Il faut générer du profit mais aussi rémunérer les créateurs de contenu, en évitant le recourt à la publicité. Et si l'utilisateur contribuait également financièrement au développement de la plateforme ? Le <a href="https://medium.com/precoil/what-is-the-business-model-for-a-twitch-streamer-f3b9e5351666">modèle économique de Twitch</a> se base sur les abonnements de chaîne, les chaînes répondant à certains critères sont éligibles à un partenariat avec Twitch ce qui leur permet d'activer l'abonnement payant de 4,99€ par mois.
@@ -38,7 +38,7 @@ Un autre exemple, <a href="https://www.feedough.com/reddit-make-money-reddit-bus
 
 Ces modèles sont intéressants et adapté à un tel projet, mais il y a une problèmatique : Comment convraincre les spectateurs de migrer vers une nouvelle plateforme tout en sachant qu'ils vont devoir payer pour soutenir leur vidéastes favoris car la publicité, étant moins présente, rapportera moins d'argent ? Nous pensons que la réponse se trouve dans les solutions que nous proposons aux vidéastes et à leur communauté, à savoir des règles plus souples concernant les droits d'auteur, une meilleure gestion de leur contenu, un meilleur contact avec leur communauté, une plateforme qui évolue avec sa communauté ainsi que de nombreuses fonctionnalités pour améliorer l'expérience de chaque utilisateur.
 
-<p align="center"><img src="../images/tweet1.png" alt="" /><br><a href="https://twitter.com/_Amixem/status/953612321707917312">Tweet original</a></p>
+<p align="center"><img src="images/tweet1.png" alt="" /><br><a href="https://twitter.com/_Amixem/status/953612321707917312">Tweet original</a></p>
 
 ## Reprenons le pouvoir avec un modèle économique sain
 

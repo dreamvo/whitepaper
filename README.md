@@ -15,3 +15,17 @@
 ---
 
 Dreamvo is a free and open source decentralized video platform. The main goal is to create an alternative to YouTube that offers another vision of sharing, viewing and managing its audiovisual content on the web.
+
+## Contributing
+
+We always need help on translations and review on white paper content. Feel free to create an issue if you spotted a typo or a translation error.
+
+We use [Docsify](https://docsify.js.org/) to write our documentation. To contribute on the content do the following :
+
+- Fork the repository
+- Clone the project
+- [Install Docsify](https://docsify.js.org/#/quickstart?id=quick-start)
+- [Run dev server](https://docsify.js.org/#/quickstart?id=preview-your-site)
+- Write your changes
+- Commit and push to your fork
+- Make a pull request

@@ -22,7 +22,7 @@ Le marché du partage de vidéo auquel nous faisons référence est celui des pl
 - Voyage & Événements
 - Sports
 
-*Pour faciliter les futurs traductions, les images et schémas seront rédigés en anglais.*
+*Pour faciliter les futures traductions, les images et schémas seront rédigés en anglais.*
 
 ## Les enjeux
 

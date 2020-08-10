@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://dreamvo.com"><img src="./docs/images/logo.png" alt="Dreamvo" width="580"></a>
+	<a href="https://dreamvo.com"><img src="./assets/logo.png" alt="Dreamvo" width="580"></a>
 </p>
 
 <h3 align="center">Take back the control over your videos</h3>

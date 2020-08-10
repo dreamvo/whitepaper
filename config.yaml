@@ -3,7 +3,6 @@
 baseURL: https://dreamvo.github.io/whitepaper
 title: Dreamvo whitepaper
 theme: book
-publishDir: docs
 
 # Book configuration
 disablePathToLower: true

@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - master
-      - develop
 
 jobs:
   publish:
@@ -19,7 +18,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - name: install Hugo
-      run: echo 1
+      run: apt-get install hugo
     - name: deploy
       run: |
         SSH_DIR="${HOME}/.ssh"
@@ -30,4 +29,4 @@ jobs:
         git remote set-url origin git@github.com:dreamvo/whitepaper.git
         git config --global user.name "${{ secrets.GITHUB_USER }}"
         git config --global user.email "${{ secrets.GITHUB_USER }}@users.noreply.github.com"
-        hugo
+        sh ./scripts/deploy.sh

@@ -1,0 +1,1 @@
+if(navigator.serviceWorker){navigator.serviceWorker.register("/whitepaper/sw.js",{scope:"/whitepaper/"});}

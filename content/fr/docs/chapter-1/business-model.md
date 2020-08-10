@@ -1,3 +1,5 @@
+# Modèle économique
+
 En mai 2005, trois anciens employés de PayPal mettaient en ligne la version beta de YouTube. La plateforme de vidéos, rachetée un an plus tard par Google pour 1,65 milliard de dollars, totalise aujourd'hui plus d'un milliard d'utilisateurs dans le monde et des centaines de millions d'heures de vidéos visionnées chaque jour.
 
 Et pourtant, malgré son incroyable succès, YouTube peine à générer du profit. La plateforme ne générait même aucun profit avant 2015, [selon le Wall Street Journal][2]. Car il faut payer les serveurs, investir dans la maintenance technique, et reverser l'argent aux droits d'auteur (plus d'un milliard de dollars ont ainsi été reversés aux titulaires depuis octobre 2014).

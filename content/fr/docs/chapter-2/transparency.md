@@ -1,3 +1,5 @@
+# Transparence, vie privée & éthique
+
 Parmis les alternatives présentées, nombreuses sont le fruit de projets à but non lucratif, créés pour lutter contre la censure et le manque de transparence envers les internautes. Ce livre blanc est loin d'être le premier à étudier la situation de l'industrie du partage de vidéo, par conséquent les solutions apportées via ces alternatives viennent avec les mêmes observations que nous avons pu avoir. Comment ces alternatives répond-t-elles aux problèmatiques observées ?
 
 ## Code en source ouverte

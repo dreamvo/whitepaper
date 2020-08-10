@@ -1,3 +1,5 @@
+# Modèle économique
+
 Bien que la publicité ait toujours été le moyen le plus efficace et rapide de monétiser du contenu sur Internet, de nombreux modèles économiques ont émergés et il est aujourd'hui possible de vivre de son activité sur Internet de différentes façons. Parmis les alternatives à YouTube que nous avons présenté, nombreuses sont celles qui reposent sur des modèles économiques reposants sur des technologies encore expérimentales, comme la cryptomonnaie. Selon le modèle économique adopté, l'utilisateur peut jouer un rôle passif ou déterministe. En effet sur YouTube, l'utilisateur ne voit que de la publicité et n'a pas d'argent à dépenser pour faire gagner de l'argent au créateur, il joue donc un rôle passif. Bien que depuis quelques années YouTube tend à devenir moins dépendant de la publicité. Mais alors est-ce que YouTube a habitué les internautes à ne pas dépenser d'argent pour soutenir des créateurs ?
 
 ### Le modèle "payer pour créer, créer pour vendre"

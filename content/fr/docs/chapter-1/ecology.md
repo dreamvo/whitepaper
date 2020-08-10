@@ -1,3 +1,5 @@
+# Écologie
+
 Internet est notre nouvelle pollution, invisible et indolore. Derrière les site web et services que nous utilisons tous les jours, se cache de nombreuses machines travaillant 24 heures sur 24, 7 jours sur 7, pour traiter une énorme quantité de données et garantir la stabilité des dits services. Outre l'énergie nécessaire pour faire fonctionner ces serveurs, cela demande également beaucoup d'énergie pour les refroidir et ainsi prévenir leur surcharge ou autres pannes matérielles.
 
 ## YouTube, le service de Google qui pollue le plus ?

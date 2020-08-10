@@ -1,3 +1,5 @@
+# Les alternatives
+
 Lancer une plateforme de partage de vidéo n'est pas une chose facile. D'abord parce qu'il est souvent difficile de faire du profit avec le coût que représente l'entretient d'un tel projet, mais aussi car créer une plateforme de partage de vidéo c'est se placer comme un concurrent direct de Google. Les alternatives décentralisées actuelles fonctionnent pour la plupart que sur des systèmes ou des technologies encore expérimentales. Cela contribue à les rendre souvent instables ou moins performantes. Parmis les nombreuses alternatives à la plateforme de Google, nous retrouvons des fonctionnements innovants reposants sur des modèles économiques parfois très particuliers comme la cryptomonnaie. Si les plateformes alternatives voient le jour pour résoudre des problèmes similaires, leurs objectifs ne sont pas toujours communs.
 
 ### Plateformes

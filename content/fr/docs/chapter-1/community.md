@@ -1,3 +1,5 @@
+# En communauté
+
 La vidéo est devenue omniprésente dans notre utilisation quotidienne d'Internet. Nous savons qu'une vidéo permet de partager des idées, des opinions ou simplement de divertir en y mettant la forme que l'on souhaite. Souvent inspirés des formats télévisés, la création de vidéo est aujourd'hui une activité qui s'est énormément démocratisée, notamment grâce à Internet. YouTube, l'un des premiers acteurs à avoir ouvert la voie, est aujourd'hui un leader dans ce domaine. Autant destiné aux particuliers qu'aux professionnels, YouTube propose de nombreuses fonctionnalités qui semblent le rendre indétrônable.
 
 #### Avantages

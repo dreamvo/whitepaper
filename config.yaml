@@ -1,8 +1,9 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL: https://example.com/
+baseURL: https://dreamvo.github.io/whitepaper
 title: Dreamvo whitepaper
 theme: book
+publishDir: docs
 
 # Book configuration
 disablePathToLower: true
@@ -20,11 +21,12 @@ markup:
 # There are different options to translate files
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
+defaultContentLanguage: fr
 languages:
-  en:
-    languageName: English
-    contentDir: content/en
-    weight: 1
+  # en:
+  #   languageName: English
+  #   contentDir: content/en
+  #   weight: 1
   fr:
     languageName: Français
     contentDir: content/fr
@@ -34,7 +36,7 @@ menu:
   # before: []
   after:
     - name: "Github"
-      url: "https://github.com/sundowndev/livre-blanc-video"
+      url: "https://github.com/dreamvo/whitepaper"
       weight: 10
 
 params:
@@ -58,7 +60,7 @@ params:
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo: https://github.com/sundowndev/livre-blanc-video
+  BookRepo: https://github.com/dreamvo/whitepaper
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.

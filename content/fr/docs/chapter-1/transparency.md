@@ -1,3 +1,5 @@
+# Transparence, vie privée & éthique
+
 Tout comme l'écologie, les questions de transparence et de respect de la vie privée concernant Google ont pendant des années fait l'objet de débats controversés. C'est un sujet sur lequel Google a dû faire des efforts afin de rassurer la communauté. Des efforts toujours considérés comme insuffisants par la communauté.
 
 ## Application du réglement

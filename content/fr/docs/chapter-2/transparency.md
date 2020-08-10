@@ -10,13 +10,13 @@ Une des initiatives les plus pertinentes en matière de transparence et de vie p
 
 Peut-on lire sur la [page Wikipédia](https://fr.wikipedia.org/wiki/Open_source) dédiée à l'open source.
 
-![screenshot](../assets/screenshot_53.png)
+![screenshot](/images/screenshot_53.png)
 
 _[Organisation GitHub](https://github.com/dtube) de DTube_
 
 * * *
 
-![screenshot](../assets/screenshot_54.png)
+![screenshot](/images/screenshot_54.png)
 
 _[Code source](https://github.com/Chocobozzz/PeerTube) du projet Peertube_
 
@@ -28,7 +28,7 @@ Néanmoins il n'existe que très peu de sociétés qui peuvent prétendre être 
 
 Il y a donc vraisemblablement un gap entre ces alternatives qui veulent changer la façon dont nous consommons du contenu au quotidien, et ces sociétés créées exclusivement pour générer du profit.
 
-[![screenshot](../assets/screenshot_52.png)][4]
+[![screenshot](/images/screenshot_52.png)][4]
 
 > _Révélé : comment TikTok censure les vidéos qui ne plaisent pas à Beijing_
 >
@@ -42,7 +42,7 @@ Le principe de la décentralisation repose sur la possibilité pour les utilisat
 
 Parmis les plateformes que nous avons présentés, nous retrouvons : [PeerTube](../alternatives#peertube), [D.Tube](../alternatives#dtube), ou encore [View.ly](../alternatives#viewly), qui sont basés sur ce concept.
 
-![screenshot](../assets/screenshot_51.png)
+![screenshot](/images/screenshot_51.png)
 
 _Exemple d'architecture du projet PeerTube_
 

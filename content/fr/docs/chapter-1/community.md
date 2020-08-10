@@ -4,8 +4,8 @@ La vidéo est devenue omniprésente dans notre utilisation quotidienne d'Interne
 
 #### Avantages
 
-![](../assets/study_2.png)
-![](../assets/study_3.png)
+![](/images/study_2.png)
+![](/images/study_3.png)
 
 Parmis les avantages concurrentiels de la plateforme de Google, nous avons identifié les suivants :
 
@@ -19,7 +19,7 @@ Parmis les avantages concurrentiels de la plateforme de Google, nous avons ident
 
 #### Désavantages
 
-![](../assets/study_4.png)
+![](/images/study_4.png)
 
 -   **L'apprentissage machine rend la modération inefficace**: Les grandes sociétés se tournent de plus en plus vers l'apprentissage machine (dite Intélligence Artificielle, ou IA) pour modérer le contenu automatiquement. Le résultat s'est montré peu glorieux: des vidéos bloquées par erreur, du contenu offensant non détecté, des mots censurés sans raison etc. Par ailleurs, ces algorithmes ne sont pas transparents, et ne permettent pas à l'utilisateur de voir comment ses préférences sont ajustées.
 -   **Modèle économique instable**: Puisque se sont les annonceurs qui alimentent le modèle économique, leurs décisions ont de grands impacts sur la capacité de la rémunération. Lorsqu'un type de vidéo ne plait pas aux annonceurs, ils peuvent décider de ne pas afficher leur publicité sur ces dernières, les rendant non monétisables par la plateforme.
@@ -33,21 +33,21 @@ Il est devenu très courant pour des vidéastes de se lancer dans un projet de c
 
 Au fil des années, le contenu des chaînes s'est structuré de plus en plus et les créateurs désireux de partager du contenu différent ou de s'adonner à d'autres types de vidéo ont parfois dû créer des chaîne secondaires. Il est donc possible pour un même utilisateur de créer plusieurs chaînes différentes.
 
-![](../assets/screenshot_19.png)
+![](/images/screenshot_19.png)
 
-![](../assets/screenshot_21.png)
+![](/images/screenshot_21.png)
 
 Ces fonctionnalités pourtant simples, permettent aux créateurs d'avoir une activité variée sur la plateforme, et de ne pas limiter leur contenu qu'à une seule chaîne. Les chaînes ne représentent donc, de manière générale, non plus des chaînes personnelles mais un programme avec un format bien particulier et une audience qui lui est propre.
 
-![](../assets/screenshot_20.png)
+![](/images/screenshot_20.png)
 
-![](../assets/screenshot_22.png)
+![](/images/screenshot_22.png)
 
 ### Proximité et intéractions avec son audience
 
 Notre étude à permis de constater que la consommation de vidéo en ligne prend énormément de place dans la vie des jeunes de 18 à 35 ans. Ceci peut notamment s'expliquer par la très grande variété de contenu présente sur la plateforme de Google et Internet de façon générale.
 
-![](../assets/study_1.png)
+![](/images/study_1.png)
 
 Grâce aux réseaux sociaux, les abonnés peuvent être davantage en contact avec leurs créateurs favoris. Les différents événements organisés permettant aux fans de les rencontrer dans le monde réel et aux créateurs de se rencontrer entre eux se sont multipliés ces dernières années. Bien que certains de ces événements n'aient pas été créés dans le but de réunir des vidéastes et leurs fans (_Japan Expo, Paris Games Week, Toulouse Game Show, Video City Paris..._), la communauté du partage de contenu sur Internet s'est approprié ces événements et les utilise, non seulement comme un moyen de découvrir différentes cultures (animation, jeux vidéo, animes, dessin...), mais aussi comme lieu de rencontre pour créer et échanger.
 
@@ -55,25 +55,25 @@ Grâce aux réseaux sociaux, les abonnés peuvent être davantage en contact ave
 
 Aux États-Unis notamment, a lieu chaque année la [VidCon](https://www.vidcon.com/), un événement à destination des créateurs et comédiens durant lequel ces derniers peuvent échanger, créer, rencontrer leurs fans, ou encore animer des stands et conférences.
 
-![](../assets/vidcon_1.jpeg)
+![](/images/vidcon_1.jpeg)
 _Crédit photo: [Kongres Magazine](https://kongres-magazine.eu/2018/02/vidcon-worlds-largest-online-video-conference-set-return-melbourne/)_
 
-![](../assets/study_6.png)
+![](/images/study_6.png)
 
 Cette proximité est très souvent cultivée par les créateurs afin de garder le contact avec leurs fans mais aussi pour permettre de diversifier leur activité en dehors du virtuel, certains vidéastes évoluants par exemple dans [le théatre, le cinéma ou encore le stand up](https://www.youtube.com/watch?v=TyY_AZMVkrE). Rencontrer ses spectateurs peut aussi être source de contenu et permet de découvrir l'audience qui se cache derrière certaines chaînes.
 
-![](../assets/screenshot_24.png)
+![](/images/screenshot_24.png)
 
 Le duo **Mcfly et Carlito** qui rend visite à quelques uns de leurs abonnés pour leur offrir des objets :
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M1PiAic9vFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-![](../assets/screenshot_23.png)
+![](/images/screenshot_23.png)
 
 Mais en dehors des réseaux sociaux, les créateurs ont de nombreux moyens à disposition pour intéragir avec leur audience. Par exemple, de plus en plus de créateurs de vidéos se lancent dans la diffusion en direct. Cela permet d'avoir les réactions des spectateurs en temps réel et de discuter sans pour autant être en contact avec eux physiquement. Sur YouTube, cela fait des années que cette fonctionnalité est disponible. Concernant les vidéos, les commentaires et les sondages sont aussi deux moyens efficaces de donner la parole à son audience.
 
-![](../assets/screenshot_25.png)
+![](/images/screenshot_25.png)
 
 * * *
 
@@ -90,7 +90,7 @@ Ce type de vidéo constitue une façon supplémentaire de créer de l'intéracti
 
 Le 12 Avril 2020, Le Radis Irradié, un vidéaste français explique s'être fait censuré par YouTube pour une vidéo postée 2 jours plus tôt. Selon YouTube, sa vidéo dénoncant une arnaque sur Internet, ne respectait pas les règles de la communauté.
 
-![](../assets/screenshot_4.png)
+![](/images/screenshot_4.png)
 [Tweet de "Le Radis Irradié", vidéaste français][9] \[[archive][9_archive]]
 
 Peu après ce tweet, une vidéo est publiée sur YouTube par Le Radis Irradié pour expliquer les faits à sa communauté. Il explique notamment qu'après de nombreux partages, son cas a finalement pu être remonté aux équipes de modération de la plateforme et qu'il s'agit bien d'une erreur. Une erreur qui aurait cependant pu lui coûter le droit de monétiser d'autres vidéos, voire même d'en publier.
@@ -102,7 +102,7 @@ Nombreux sont les créateurs qui sont satisfaits de YouTube et n'ont aucun probl
 
 Face à l'augmentation de la censure et de la pression mise par la plateforme concernant la monétisation, les vidéastes se sont vus contraints de revoir leur format de vidéo, parfois même leur concept, jusqu'à créer des vidéos moins intéressantes mais qui génèrent plus de vues.
 
-![](../assets/screenshot_8.png)
+![](/images/screenshot_8.png)
 
 <div align="center"><a href="https://www.reddit.com/r/youtube/comments/79p77w/can_we_discuss_how_awful_the_yt_trending_page_has/">Discussion Reddit</a> dans <strong>/r/youtube</strong></div>
 
@@ -126,7 +126,7 @@ Les problèmatiques qui émanent de la plateforme de Google sont nombreuses et b
 
 Parmis les ressources mises à disposition, nous retrouvons le YouTube Studio. Il s'agit d'une fonctionnalité récente de la plateforme qui permet aux créateurs de gérer leur chaîne, visualiser les statistiques, ainsi que suivre l'évolution de leur nombre d'abonnés. Cette fonctionnalité permet notamment de modérer les commentaires que le créateur reçoit, de les filtrer par ancienneté ou par type. Il est aussi possible de déléguer la modération des commentaires à d'autres utilisateurs pour qu'ils puissent s'en occuper à votre place. La section commentaire peut être désactivée sur des vidéos précises, choisies au préalable par le créateur.
 
-![](../assets/screenshot_12.gif)
+![](/images/screenshot_12.gif)
 
 * * *
 

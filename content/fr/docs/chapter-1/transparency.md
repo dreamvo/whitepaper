@@ -8,7 +8,7 @@ Tout comme l'écologie, les questions de transparence et de respect de la vie pr
 
 Peut-on lire sur le rapport d'[application du règlement de la communauté YouTube][3]. En effet depuis 2017, YouTube partage ses statistiques relatives à la suppression de vidéos, chaînes, ou encore commentaires.
 
-![](../assets/screenshot_46.png)
+![](/images/screenshot_46.png)
 
 > Nous nous appuyons à la fois sur les individus et sur la technologie pour signaler le contenu inapproprié et faire respecter ces règles. Les signalements peuvent provenir de nos systèmes de détection automatique, de membres du programme Trusted Flagger (ONG, autorités administratives et individus) ou d'utilisateurs au sein de la vaste communauté YouTube.
 
@@ -22,11 +22,11 @@ Cependant ce que YouTube ne dévoile pas, c'est le fonctionnement de la détecti
 
 Dans [un document de recherche][5] publié en 2016, un groupe d'ingénieurs de Google a fait part de ses projets sur la manière dont les vidéos pourraient être référencées par le moteur de recommandation de YouTube pour une meilleure expérience utilisateur.
 
-![](../assets/screenshot_48.png)
+![](/images/screenshot_48.png)
 
 Bien qu'il n'ait pas attiré beaucoup d'attention à l'époque, il est aujourd'hui très pertinent puisque, selon le chef de produit de YouTube, 70 % des vues passent maintenant par cet algorithme de recommandation.
 
-![](../assets/screenshot_47.png)
+![](/images/screenshot_47.png)
 
 > Au [CES (Consumer Electronics Show)](https://en.wikipedia.org/wiki/Consumer_Electronics_Show), le chef de produit de YouTube a affirmé que dans 70 % des cas, vous suivez une chaîne de recommandations orchestrée par un [algorithme d'apprentissage automatique](https://fr.wikipedia.org/wiki/Apprentissage_automatique).
 
@@ -64,7 +64,7 @@ Après avoir découvert le P-Score dissimulé dans plusieurs pages, Bowbax et d�
 
 > Le tableau montre des scores contenus entre 230 et 1 050 environ (et qui diffèrent selon les pays). Les notes les plus hautes ont été attribuées à des shows télévisés comme le Late Show de Stephen Colbert, le Tonight Show de Jimmy Fallon, le Jimmy Kimmel Live, ou des chaînes télévisées comme CBC, Fox News, CNN ou la BBC.
 
-![](../assets/screenshot_50.png)
+![](/images/screenshot_50.png)
 
 > Ce classement a fait renaître certaines frustrations. Pour beaucoup, il prouve que YouTube favorise des entreprises, personnalités du monde du spectacle et médias plutôt que les créateurs de contenus qui ont fait sa renommée. La très bonne position de Will Smith est symptomatique de ce décalage. L’acteur a une chaîne active et de qualité, mais il ne compte que 7 millions d’abonnés. Pourquoi se retrouve-t-il au dessus de PewDiePie, qui en a plus de 100 millions, et de bien d’autres vidéastes plus populaires que lui ? Des internautes y voient un simple traitement de faveur, pour un acteur qui avait déjà été mis en tête d’affiche sur [le Rewind (vidéo bilan de l’année) controversé de 2018](https://www.youtube.com/watch?v=YbJOTdZBX1g).
 
@@ -72,7 +72,7 @@ Après avoir découvert le P-Score dissimulé dans plusieurs pages, Bowbax et d�
 
 Le modèle économique basé sur la publicité a démontré à de nombreuses reprises, que YouTube était dans l'incapacité de se montrer impartial sur les décisions de démonétisation. Principalement à cause du pouvoir qu'ont les annonceurs sur ces décisions. Dans un article publié sur LeMonde, on peut voir que de nombreux vidéastes ont vu leurs vidéos supprimées ou démonétisées pour des motifs nébuleux.
 
-![](../assets/screenshot_49.png)
+![](/images/screenshot_49.png)
 _[Article publié en 2016 sur LeMonde][7]_
 
 > YouTube ruine ma chaîne et je ne sais pas quoi faire.

@@ -4,11 +4,11 @@ Depuis des dizaines d'années maintenant, Internet a changé notre façon de s'i
 
 Notre récente étude à permis de constater que la consommation de vidéo en ligne prend énormément de place dans la vie des jeunes. Cette étude a été menée de 2019 à 2020 sur un échantillon de 95 personnes allant de 18 à 35 ans. C'est en partie sur celle-ci que nous nous appuierons pour construire notre argumentation. Les résultats complets de l'étude [sont disponible ici](https://github.com/dreamvo/whitepaper/blob/master/data/responses.csv) au format CSV.
 
-![](./assets/study_1.png)
+![](/images/study_1.png)
 
 Des suites de cette démocratisation, plusieurs sociétés ont émergées, devenant aujourd'hui de véritables géants du web, au point d'être omniprésents sur la toile. Du moteur de recherche à l'hébergement web, en passant par le réseau social, ces géants du web représentent aujourd'hui les outils de référence en matière de création, de partage et d'hébergement de contenu. Depuis quelques années maintenant, ces entreprises sont sujettes à diverses polémiques relatives au respect de la vie privée des utilisateurs et à la création d'un monopole. En effet le pouvoir de ces sociétés pose plusieurs problèmatiques majeures : du fait de la diversité de leur activité, ces sociétés peuvent écraser la concurrence en mettant davantage leurs produits et services en avant. De plus, leur politique de confidentialité est souvent très intrusive et leur donne un important droit de regard et d'exploitation sur les données qui leur sont confiées, notamment sur le contenu hébergé. Ce qui peut alors se traduire par de la censure et revente de données.
 
-![](./assets/screenshot_1.png)
+![](/images/screenshot_1.png)
 
 <div align="center">
     <a href="https://web.archive.org/web/20191112074907/https://www.developpez.com/actu/283999/YouTube-affirme-qu-il-peut-supprimer-des-comptes-sur-sa-plateforme-qui-ne-sont-pas-viables-commercialement-une-mesure-qui-inquiete/" target="_blank">Article de Stéphane le calme sur developpez.com</a>

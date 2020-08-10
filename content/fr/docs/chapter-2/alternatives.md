@@ -26,7 +26,7 @@ Lancée en juin 2011, Twitch est un service de streaming vidéo en direct et de 
 
 En savoir plus sur [la page Wikipédia](https://fr.wikipedia.org/wiki/Twitch).
 
-[![screenshot](../assets/screenshot_31.png)][3]
+[![screenshot](/images/screenshot_31.png)][3]
 
 #### Vimeo
 
@@ -34,7 +34,7 @@ Lancée en novembre 2004, Vimeo est une plateforme de partage de vidéo América
 
 En savoir plus sur [la page Wikipédia](https://fr.wikipedia.org/wiki/Vimeo).
 
-[![screenshot](../assets/screenshot_30.png)][4]
+[![screenshot](/images/screenshot_30.png)][4]
 
 #### Dailymotion
 
@@ -42,25 +42,25 @@ Dailymotion est un service d'hébergement, de partage et de visionnage de vidéo
 
 En savoir plus sur [la page Wikipédia](https://fr.wikipedia.org/wiki/Dailymotion).
 
-[![screenshot](../assets/screenshot_29.png)][5]
+[![screenshot](/images/screenshot_29.png)][5]
 
 #### View.ly
 
 View.ly est une plateforme de partage de vidéo décentralisée et open source qui fonctionne sur la blockchain. Le projet se focalise sur 3 problèmes clés des plateformes propriétaires : la démonétisation, la publicité et le coût de la charge de serveur. Pour répondre à ses problèmatiques, Viewly propose les solutions suivantes : un support financier directement par la communauté, une plateforme sans publicité et de la diffusion utilisant le réseau pair-à-pair (P2P). La blockchain joue aussi un rôle majeur car elle permet de contrôler la monétisation sans passer par la plateforme comme intermédiaire. Les donations arrivent directement dans la poche du créateur. La plateforme fonctionne sur avec un système de relais. Cela veut dire qu'une plateforme constitue un relai et que pour chaque relai est une source supplémentaire pour la diffusion de vidéos. On appelle aussi ce système la fédération.
 
-[![screenshot](../assets/screenshot_28.png)][6]
+[![screenshot](/images/screenshot_28.png)][6]
 
 #### D.Tube
 
 D.Tube est une plateforme de partage de vidéo décentralisée qui utilise la blockchain et la cryptomonnaie pour rémunérer ses utilisateurs. Le concept de D.Tube c'est une plateforme libre où chacun peut partager et regarder du contenu sans publicité, sans algorithme de recommandation et le tout en gagnant de l'argent. Sur D.Tube, les vues se comptent en cryptomonnaie. DTube est une plateforme auto-gouvernée, ou un nombre limité de leaders sont élus et sont en charge de produire les nouveaux blocks et de sécuriser l'infrastructure. Les utilisateurs ont la possibilité de voter pour un maximum de 5 leaders.
 
-[![screenshot](../assets/screenshot_27.png)][7]
+[![screenshot](/images/screenshot_27.png)][7]
 
 #### Pop Network
 
 Pop Network est un projet visant à créer un écosystème de plateformes de partage de vidéo basé sur la cryptomonnaie _Pop_. L'écosystème est basé sur BitTorrent, un protocol de partage de fichier décentralisé, et sur la blockchain, permettant ainsi de profiter d'une économie indépendante. Le principe du réseau décentralisé fait que les clients peuvent directement contribuer à l'écosystème tout en étant rémunérés. Pop Network n'en est encore qu'au stade de projet, néanmoins des prototypes et une preuve de concept ont été réalisés entre 2018 et 2020.
 
-[![screenshot](../assets/screenshot_32.png)][8]
+[![screenshot](/images/screenshot_32.png)][8]
 
 #### PeerTube
 
@@ -68,7 +68,7 @@ PeerTube est un projet français de plateforme de partage de vidéo libre, open-
 
 Suite à un financement participatif lancé entre mars et juillet 2018, Framasoft a pu financer l'emploi du développeur principal de PeerTube. Ainsi, après une version bêta en mars 2018, la version 1 est sortie en novembre 2018. Depuis, plusieurs versions intermédiaires ont apporté de nombreuses fonctionnalités. Plusieurs collectifs ont déjà monté des hébergements PeerTube, créant ainsi les bases de la fédération.
 
-[![screenshot](../assets/screenshot_26.png)][9]
+[![screenshot](/images/screenshot_26.png)][9]
 
 #### TikTok
 
@@ -76,7 +76,7 @@ TikTok est une application mobile de partage de vidéo et de réseautage social 
 
 En savoir plus sur [la page Wikipédia](https://fr.wikipedia.org/wiki/TikTok).
 
-[![screenshot](../assets/screenshot_34.jpeg)][1]
+[![screenshot](/images/screenshot_34.jpeg)][1]
 
 ### Projets divers
 
@@ -86,7 +86,7 @@ NewPipe est un client mobile se définissant comme proposant une expérience alt
 
 Une autre particuliarité de l'application est quelle permet de jongler entre différentes plateformes, vous pouvez regarder des vidéos provenant d'une instance de [Peertube](#peertube) ou écouter de la musique provenant de [SoundCloud](https://soundcloud.com/).
 
-[![screenshot](../assets/screenshot_33.png)][1]
+[![screenshot](/images/screenshot_33.png)][1]
 
 * * *
 

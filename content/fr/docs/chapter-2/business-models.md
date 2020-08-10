@@ -6,7 +6,7 @@ Bien que la publicité ait toujours été le moyen le plus efficace et rapide de
 
 Depuis 2017, Vimeo propose des offres payantes à ses utilisateurs, notamment pour pouvoir ajouter davantage de vidéo. L'offre payante se compose de 4 propositions allant de 6 à 70€ par mois : **Plus**, **Pro**, **Business**, **Premium**.
 
-![](../assets/screenshot_35.png)
+![](/images/screenshot_35.png)
 
 Les principaux avantages des offres payantes sont les suivants :
 
@@ -38,7 +38,7 @@ Ce partenariat comprend les avantages suivant :
 
 Twitch récupère un pourcentage des revenus générés par les abonnements, et les abonnés ont droit à certains avantages comme des émoticones personnalisées dans le chat, des badges, des accès privilégiés aux rediffusions ou à certains sites (forums de discussion, ...). Grâce à son traffic, aux publicités que les non abonnés regardent, aux abonnements Twitch Turbo ($8,99/mois) et aux taxes d'abonnements de chaînes, la société Twitch génère des centaines de millions de dollars chaque années. Les spectateurs soutiennent financièrement leurs créateurs favoris tout en soutenant la plateforme.
 
-![](../assets/screenshot_36.png)
+![](/images/screenshot_36.png)
 _Les détails de l'abonnement [Twitch Turbo](https://www.twitch.tv/turbo)_
 
 L'offre Turbo ne s'appuie donc plus seulement sur l'engagement des spectateurs mais aussi sur celui des créateurs, qui peuvent payer pour obtenir des fonctionnalités supplémentaires et fidéliser leur communauté.
@@ -49,7 +49,7 @@ L'offre Turbo ne s'appuie donc plus seulement sur l'engagement des spectateurs m
 
 L'une des premières plateformes à avoir basé son modèle économique sur la cryptomonnaie est [D.Tube][7]. Une plateforme de partage de vidéo entièrement décentralisée qui repose sur sa propre cryptomonnaie, **DTC (DTube Coin)**. Mais bien qu'il s'agisse d'un moyen innovant de rémunérer les créateurs, très peu d'internautes savent réellement comment fonctionne cette technologie ni comment l'utiliser.
 
-![](../assets/screenshot_45.png)
+![](/images/screenshot_45.png)
 
 Grâce à la technologie Steem, le contenu posté sur D.Tube est systématiquement enregistré dans la blockchain ce qui à terme permet de générer de la cryptomonnaie. Steem est une sorte de "blockchain sociale" qui développe des communautés et permet aux utilisateurs de générer des revenus immédiats en les récompensant pour le partage de contenu.
 
@@ -59,13 +59,13 @@ Grâce à la technologie Steem, le contenu posté sur D.Tube est systématiqueme
 
 Malgré une adoption grandissante de ce modèle économique par de nouvelles plateformes, de nombreux internautes restent septiques voire réticents face à ces technologies. D'autres ne savent tout simplement pas comment cela fonctionne.
 
-![](../assets/study_16.png)
+![](/images/study_16.png)
 
-![](../assets/study_18.png)
+![](/images/study_18.png)
 
 La majorité des internautes ayant expérimenté une de ces plateformes ressortent tout de même avec une expérience satisfaisante.
 
-![](../assets/study_17.png)
+![](/images/study_17.png)
 
 Néanmoins l'avis général des internautes sur la question du rôle de la cryptomonnaie reste encore mitigé, principalement car il s'agit d'une technologie encore expérimentale et qui n'a pas encore fait ses preuves dans le milieu du divertissement. Ce modèle économique se présente donc comme une alternative expérimentale mais inadaptée au grand public et aux créateurs habitués à profiter de la stabilité du système bancaire traditionel.
 
@@ -84,17 +84,17 @@ Voici une liste non exhaustive des plateformes européennes de financement parti
 
 Notre enquête montre que même sur YouTube, qui a longtemps utilisé le modèle publicitaire comme source de revenue principale, voit sa communauté opter de plus pour l'abonnement payant.
 
-![](../assets/study_14.png)
+![](/images/study_14.png)
 
-![](../assets/study_15.png)
+![](/images/study_15.png)
 
 Sous forme de donation unique ou d'abonnement mensuel, les spectateurs sont libres de choisir la hauteur du montant qu'ils souhaitent investir, parfois en échange d'une contrepartie pour les remercier.
 
-[![](../assets/screenshot_37.png)](https://en.tipeee.com/e-penser)
+[![](/images/screenshot_37.png)](https://en.tipeee.com/e-penser)
 
 _Profil Tipeee de e-penser_
 
-[![](../assets/screenshot_42.png)](https://www.utip.io/stupideconomics)
+[![](/images/screenshot_42.png)](https://www.utip.io/stupideconomics)
 
 _Profil Utip de Stupid Economics_
 
@@ -102,25 +102,25 @@ _Profil Utip de Stupid Economics_
 
 Tipeee propose également des statistiques publiques sur l'évolution de ce modèle économique et son appréciation par les fans. Ici nous pouvons voir que pour les abonnements mensuels, le montant moyen est de 6,79€, pour une durée d'abonnement moyenne de 9 mois.
 
-![](../assets/screenshot_41.png)
+![](/images/screenshot_41.png)
 
 Voici d'autres statistiques générales sur ces plateformes :
 
 ##### Tipeee
 
-![](../assets/screenshot_38.png)
+![](/images/screenshot_38.png)
 
 ##### Utip
 
-![](../assets/screenshot_40.png)
+![](/images/screenshot_40.png)
 
 ##### KissKissBankBank
 
-![](../assets/screenshot_43.png)
+![](/images/screenshot_43.png)
 
 ##### Ulule
 
-![](../assets/screenshot_44.png)
+![](/images/screenshot_44.png)
 
 * * *
 

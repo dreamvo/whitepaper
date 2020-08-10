@@ -6,7 +6,7 @@ Internet est notre nouvelle pollution, invisible et indolore. Derrière les site
 
 Les questions environnementales sont depuis plusieurs années déjà, au coeur des débats concernant Google. Leur plateforme de partage de vidéos atteignant le milliard d'utilisateur et le nombre de vidéos ajoutées chaque minute grandissant sans cesse, il est évident que cet engouement n'est pas sans conséquence. L'impact écologique de la firme devenu non négligable, posant alors des questions environnementales qui inquiètent les ONG.
 
-![screenshot](../assets/screenshot_13.png)
+![screenshot](/images/screenshot_13.png)
 
 Selon [cet article de l'OBS][3] en 2015 :
 
@@ -24,13 +24,13 @@ Selon [cet article de l'OBS][3] en 2015 :
 
 Face à cet enjeu de taille, Google a depuis mis en place des mesures pour tenter de réduire son impact écologique. C'est même devenu un de leurs arguments marketing puisque Google Cloud Platform, le service cloud de Google [affiche désormais sur son site web][7] n'utiliser que de l'énergie 100% renouvelable. Ils ont notamment été certifié par [la norme ISO 50001](https://en.wikipedia.org/wiki/ISO_50001), qui vise l’amélioration de la performance énergétique et qui constitue donc une source d’économie énergétique potentielle pour les entreprises.
 
-![screenshot](../assets/screenshot_14.png)
+![screenshot](/images/screenshot_14.png)
 
 > Google associe 100 % de l'énergie consommée par ses activités mondiales à des énergies renouvelables et maintient son engagement de neutralité carbone. Cela inclut nos centres de données et Google Cloud. Ainsi, lorsque vous choisissez Google Cloud Platform pour exécuter vos calculs, stocker vos données et développer vos applications, votre empreinte numérique est compensée par une énergie propre, ce qui réduit votre impact sur l'environnement.
 
 Ces efforts ont notamment été récompensés par une reconnaissance de Greenpeace, une ONG spécialisée dans les questions environnementales, dans un rapport sur les différents fournisseurs de solution cloud.
 
-![screenshot](../assets/screenshot_18.png)
+![screenshot](/images/screenshot_18.png)
 
 > Heureusement, Greenpeace a fait une évaluation comparative de chaque fournisseur de cloud et a attribué à Google une note de A en 2016.
 
@@ -38,7 +38,7 @@ Ces efforts ont notamment été récompensés par une reconnaissance de Greenpea
 
 Google a depuis placé l'enjeu environnemental au coeur de ses valeurs et de ses stratégies de développement. Même si les intentions de la firme tendent à rendre YouTube moins polluant, n'utiliser que de l'énergie renouvelable ne semble pas être suffisant. Selon [une étude de l’Université de Bristol][8], en 2016, les vidéos sur YouTube ont émis l’équivalent de 11,3 millions de tonnes de CO2. Cela équivaut à l’émission de CO2 de villes comme Francfort-sur-le-Main. D'après les chercheurs britanniques, le problème réside dans la conception même de la plateforme vidéo. Ils accusent notamment le système de lecture automatique des vidéos, qui permet de lancer une vidéo suggérée dès que la précédente est terminée. Selon leur estimation, si une vidéo s’arrêtait dès qu’un internaute cessait de la regarder, cela réduirait les émissions de CO2 de 320 000 tonnes.
 
-![screenshot](../assets/screenshot_15.png)
+![screenshot](/images/screenshot_15.png)
 
 _La fonctionnalité de lecture automatique, activée par défaut._
 
@@ -48,13 +48,13 @@ Pour résoudre ce problème, Google a tenté une solution très simple, demander
 
 Mais ce n'est pas la seule fonctionnalité qui est pointée du doigt par les chercheurs. Selon [cet article de WIRED][9], d'autres choix de conception semblent délaisser la question de l'émission de CO2 et favoriser le visionnage intensif par les utilisateurs.
 
-![screenshot](../assets/screenshot_17.png)
+![screenshot](/images/screenshot_17.png)
 
 > L'une des modifications que les chercheurs proposent pour YouTube et d'autres services de diffusion en continu consiste à éliminer le "gaspillage numérique" que représente la diffusion d'images vidéo à des utilisateurs qui n'écoutent que du son - un arrêt qui pourrait réduire l'empreinte carbone de YouTube de 500 Kilotonne CO2 chaque année, soit l'équivalent de celle d'environ 30 000 foyers.
 
 Or, YouTube ne propose pas d'option pour n'écouter que le son d'une vidéo, seulement une option pour réduire la qualité vidéo à une résolution de 144p.
 
-![screenshot](../assets/screenshot_16.png)
+![screenshot](/images/screenshot_16.png)
 
 > Dans de nombreux cas, il serait possible de repérer les utilisateurs qui \[n'écoutent que du son] et d'éviter l'envoi de données supplémentaires. Pour chaque utilisateur, ce n'est pas une grande quantité, mais étant donné le grand nombre d'utilisateurs de YouTube à travers la planète, le total s'accumule.
 

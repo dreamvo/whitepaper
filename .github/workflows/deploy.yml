@@ -1,4 +1,4 @@
-name: Publish docs
+name: Publish
 
 on:
   push:
@@ -8,18 +8,11 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [12.x]
     steps:
     - uses: actions/checkout@v1
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
-    - name: install Hugo
-      run: apt-get install hugo
-    - name: deploy
+    - name: Install Hugo
+      run: sudo apt-get install hugo
+    - name: Deploy
       run: |
         SSH_DIR="${HOME}/.ssh"
         mkdir "${SSH_DIR}"
@@ -27,6 +20,6 @@ jobs:
         echo "${{ secrets.ACTIONS_DEPLOY_KEY }}" > "${SSH_DIR}/id_rsa"
         chmod 400 "${SSH_DIR}/id_rsa"
         git remote set-url origin git@github.com:dreamvo/whitepaper.git
-        git config --global user.name "${{ secrets.GITHUB_USER }}"
-        git config --global user.email "${{ secrets.GITHUB_USER }}@users.noreply.github.com"
+        git config --global user.name "dreamvo"
+        git config --global user.email "dreamvo@users.noreply.github.com"
         sh ./scripts/deploy.sh

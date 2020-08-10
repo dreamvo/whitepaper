@@ -2,7 +2,7 @@
 
 Depuis des dizaines d'années maintenant, Internet a changé notre façon de s'informer, de communiquer, et de partager. Parmis les différents types de contenu, l'audiovisuel a pris une place omniprésente dans notre naviguation quotidienne en ligne. Aujourd'hui grâce aux réseaux sociaux et aux plateforme de partage de contenu, il est devenu très facile de partager des vidéos librement et gratuitement. Les plateformes de partage de vidéos se  sont donc multipliées et la création de contenu audiovisuel s'est démocratisée avec un véritable business à la clé, notamment grâce à la publicité. La publicité en ligne a permis de mettre en place un modèle économique universel basé sur la demande des annonceurs et le trafic des sites web. Une visite se traduisant rapidement en Euros, et le trafic quotidien des sites web devenant de plus en plus conséquent, ce modèle économique a pu devenir un des pilliers de la démocratisation d'Internet.
 
-Notre récente étude à permis de constater que la consommation de vidéo en ligne prend énormément de place dans la vie des jeunes. Cette étude a été menée de 2019 à 2020 sur un échantillon de 95 personnes allant de 18 à 35 ans. C'est en partie sur celle-ci que nous nous appuierons pour construire notre argumentation. Les résultats complets de l'étude [sont disponible ici](https://github.com/dreamvo/whitepaper/blob/master/data/responses.csv) au format CSV.
+Notre récente étude à permis de constater que la consommation de vidéo en ligne prend énormément de place dans la vie des jeunes. Cette étude a été menée de 2019 à 2020 sur un échantillon de 95 personnes allant de 18 à 35 ans. C'est en partie sur celle-ci que nous nous appuierons pour construire notre argumentation. Les résultats complets de l'étude [sont disponible ici][2] au format CSV.
 
 ![](/images/study_1.png)
 
@@ -31,4 +31,4 @@ Mais la publicité représente-t-elle encore aujourd'hui l'unique moyen fiable d
 
 [1_archive]: https://web.archive.org/web/20191112074907/https://www.developpez.com/actu/283999/YouTube-affirme-qu-il-peut-supprimer-des-comptes-sur-sa-plateforme-qui-ne-sont-pas-viables-commercialement-une-mesure-qui-inquiete/
 
-[2]: https://github.com/dreamvo/whitepaper/blob/master/data/responses.csv
+[2]: https://github.com/dreamvo/whitepaper/blob/master/study.csv
